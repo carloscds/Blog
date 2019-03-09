@@ -9,15 +9,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt_BR"
-title                    : "Ralms.NET"
+title                    : "Blog Carlos dos Santos"
 title_separator          : "-"
-name                     : "Rafael Almeida"
-description              : "Microsoft MVP, MCP, Software Engineer at FortBit and Passionate on C#, Github Project Contributor, MSDN Brazil Contributor, Founder of Developers Sergipe."
-url                      : http://www.ralms.net
+name                     : "Carlos dos Santos"
+description              : "Microsoft "Microsoft MVP"
+url                      : https://carloscds.github.io/Blog/
 baseurl                  : "./"
-repository               : ralmsdeveloper/blog
+repository               : carloscds/blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -67,11 +66,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rafael Almeida"
+  name             : "Carlos dos Santos"
   avatar           : /assets/images/bio.jpg
-  bio              : "Microsoft MVP, MCP, Software Engineer at FortBit and Passionate on C#, Github Project Contributor, MSDN Brazil Contributor, Founder of Developers Sergipe."
-  location         : "Sergipe-Brasil"
-  email            : ralms@ralms.net
+  bio              : "Microsoft "Microsoft MVP"
+  location         : "Brasil"
+  email            : cdssoftware@hotmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -80,23 +79,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ralmsdeveloper
+  github           : carloscds
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : cdssoftware
   lastfm           :
-  linkedin         : ralmsdeveloper
+  linkedin         : cdssoftware
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : ralmsdeveloper
+  twitter          : cdssoftware
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : https://www.youtube.com/channel/UChbXLSbAScVA3yqtAdOVYzQ
 
 
 # Reading Files
