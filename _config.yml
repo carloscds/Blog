@@ -4,7 +4,7 @@ title                    : "Blog Carlos dos Santos"
 locale                   : "pt_BR"
 title_separator          : "-"
 name                     : "Carlos dos Santos"
-description              : "Microsoft "Microsoft MVP" 
+description              : "Microsoft Microsoft MVP"
 url                      : https://carloscds.github.io/Blog
 repository               : carloscds/blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -59,7 +59,7 @@ analytics:
 author:
   name             : "Carlos dos Santos"
   avatar           : /assets/images/bio.jpg
-  bio              : "Microsoft "Microsoft MVP"
+  bio              : "Microsoft Microsoft MVP"
   location         : "Brasil"
   email            : cdssoftware@hotmail.com
   uri              :
