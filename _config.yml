@@ -1,18 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
-theme: jekyll-theme-architect
-locale                   : "pt-BR"
-title                    : "Blog Carlos dos Santos"
+locale                   : "pt_BR"
+title                    : "Ralms.NET"
 title_separator          : "-"
-name                     : "Carlos dos Santos"
-description              : "Dicas e contudo sobre desevolvimento"
-url                      : "https://www.carloscds.net"
-baseurl                  : ""
-repository               : carloscds/blog
-words_per_minute         : 50
+name                     : "Rafael Almeida"
+description              : "Microsoft MVP, MCP, Software Engineer at FortBit and Passionate on C#, Github Project Contributor, MSDN Brazil Contributor, Founder of Developers Sergipe."
+url                      : http://www.ralms.net
+baseurl                  : "./"
+repository               : ralmsdeveloper/blog
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
 comments:
-  provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : ralmsdeveloper # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -22,12 +32,12 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
+  branch                 : "blog"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "docs/_data/comments/{options.slug}"
+  path                   : "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -35,28 +45,23 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
-search                   : true
-search_full_content      : # true, false (default)
-search_provider          : algolia
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+search                   : # true, false (default)
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
 yandex_site_verification :
+naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -71,41 +76,43 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-90644063-1
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Carlos dos Santos"
-  avatar           : /assets/images/bio.png
-  bio              : "Microsoft MVP, Microsoft RD, Software Architecth"
-  location         : "Brasil"
-  email            : cdssoftware@hotmail.com
-  uri              : 
+  name             : "Rafael Almeida"
+  avatar           : /assets/images/bio.jpg
+  bio              : "Microsoft MVP, MCP, Software Engineer at FortBit and Passionate on C#, Github Project Contributor, MSDN Brazil Contributor, Founder of Developers Sergipe."
+  location         : "Sergipe-Brasil"
+  email            : ralms@ralms.net
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : carloscds
+  github           : ralmsdeveloper
+  gitlab           :
   google_plus      :
   keybase          :
-  instagram        : carloscds
+  instagram        :
   lastfm           :
-  linkedin         : cdssoftware
+  linkedin         : ralmsdeveloper
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
-  steam            :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : cdssoftware
+  twitter          : ralmsdeveloper
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -175,16 +182,16 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-gems:
+# Plugins (previously gems:)
+plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-archives
   - jemoji
 
 # mimic GitHub Pages with --safe
@@ -193,7 +200,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-archives
   - jemoji
 
 
@@ -209,21 +215,21 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /
+  path: /categories/
 tag_archive:
   type: liquid
-  path: /
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
