@@ -7,7 +7,6 @@ title_separator          : "-"
 name                     : "Carlos dos Santos"
 description              : "Microsoft "Microsoft MVP"
 url                      : https://carloscds.github.io/Blog
-baseurl                  : "./"
 repository               : carloscds/blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 words_per_minute         : 200
