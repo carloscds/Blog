@@ -1,11 +1,10 @@
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
-locale                   : "pt_BR"
 title                    : "Blog Carlos dos Santos"
+locale                   : "pt_BR"
 title_separator          : "-"
 name                     : "Carlos dos Santos"
-description              : "Microsoft "Microsoft MVP"
+description              : "Microsoft "Microsoft MVP" 
 url                      : https://carloscds.github.io/Blog
 repository               : carloscds/blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -65,7 +64,7 @@ author:
   email            : cdssoftware@hotmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
