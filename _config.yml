@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -13,7 +6,7 @@ title                    : "Blog Carlos dos Santos"
 title_separator          : "-"
 name                     : "Carlos dos Santos"
 description              : "Microsoft "Microsoft MVP"
-url                      : https://carloscds.github.io/Blog/
+url                      : https://carloscds.github.io/Blog
 baseurl                  : "./"
 repository               : carloscds/blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
