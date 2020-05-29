@@ -1,13 +1,13 @@
 baseURL: https://www.carloscds.net 
 theme: pure
 title: Carlos dos Santos
-defaultContentLanguage: en  # en/zh/...
+defaultContentLanguage: pt-br/en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
 paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
-googleAnalytics: ""      # UA-XXXXXXXX-X 
+googleAnalytics: "UA-8863591-6"
 permalinks:
   posts: /:year/:month/:filename/
 
@@ -135,7 +135,7 @@ params:
   # Comment
   comment:
     type:  disqus
-    disqus: disqus_EjNcYDq0yR # enter disqus shortname here
+    disqus: https-www-carloscds-net # enter disqus shortname here
 
   # PV
   pv:
