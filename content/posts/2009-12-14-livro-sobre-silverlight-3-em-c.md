@@ -11,7 +11,7 @@ categories:
   - Silverlight
   - Visual Studio
 ---
-Recentemente eu fiz o review de um livro da editora Apress que se chama <a href="http://www.apress.com/book/view/1430223812" target="_blank">&#8220;Pro Silverlight 3 in C#”</a>. Este livro realmente me chamou atenção, pois ele tem uma leitura muito agradável e é cheio de exemplos, o que o torna “viciante”.
+Recentemente eu fiz o review de um livro da editora Apress que se chama <a href="http://www.apress.com/book/view/1430223812" target="_blank">"Pro Silverlight 3 in C#”</a>. Este livro realmente me chamou atenção, pois ele tem uma leitura muito agradável e é cheio de exemplos, o que o torna “viciante”.
 
 Você quer fazer tudo que tem no livro, pois o Silverlight por si só já é muito show, e um livro que ensina passo a passo melhor ainda.
 

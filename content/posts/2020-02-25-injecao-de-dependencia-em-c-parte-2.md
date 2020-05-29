@@ -26,7 +26,7 @@ Injetar dependências significa que podemos ter acesso a um objeto sem, necessar
 
 Ter acesso a um objeto gerenciado pelo mecanismo de injeção significa que deixamos por conta dele a criação e destruição deste objeto e nos preocupamos apenas em consumi-lo.
 
-E o que significa isto? É simples, iremos &#8220;indicar&#8221; o objeto e receberemos a instância deste objeto dentro da classe onde vamos utilizá-lo. 
+E o que significa isto? É simples, iremos "indicar" o objeto e receberemos a instância deste objeto dentro da classe onde vamos utilizá-lo. 
 
 E para esclarecer, uma chamada (request) é cada vez que você aciona algo dentro da sua aplicacão, ou seja, cada POST, GET, PUT, DELETE que é executado. 
 
@@ -77,7 +77,7 @@ E agora a implementação da classe Servico.cs:<figure class="wp-block-embed">
   </div>
 </div></figure> 
 
-A idéia é mostrarmos o valor do &#8220;contador&#8221; de acordo com o tipo de dependência.
+A idéia é mostrarmos o valor do "contador" de acordo com o tipo de dependência.
 
 Agora imagine que esta classe _Servico_ esteja sendo utilizada em várias partes da aplicação, e que dentro de uma mesma chamada, você irá acessar dados desta classe mais de uma vez.
 
@@ -115,9 +115,9 @@ Para você entender melhor, veja que o construtor da classe recebe as instância
 
 Um projeto ASP.NET Core possui uma classe chamada **Startup.cs**, e é nela que fazemos as configurações da nossa aplicação, incluindo a injeção de dependência. Nesta classe existe o método **ConfigureServices()**, onde fazemos estas configurações.
 
-Vale lembrar também que existe um objeto Configuration na nossa aplicação ASP.NET Core, que traz os dados do arquivo &#8220;appsettings.json&#8221; por injeção de dependência, ou seja, em qualquer classe que você colocar o IConfiguration, terá acesso as estas configurações.
+Vale lembrar também que existe um objeto Configuration na nossa aplicação ASP.NET Core, que traz os dados do arquivo "appsettings.json" por injeção de dependência, ou seja, em qualquer classe que você colocar o IConfiguration, terá acesso as estas configurações.
 
-Seguindo com o exemplo, vamos primeiro colocar a injeção de dependência como &#8220;Transient&#8221;:<figure class="wp-block-embed">
+Seguindo com o exemplo, vamos primeiro colocar a injeção de dependência como "Transient":<figure class="wp-block-embed">
 
 <div class="wp-block-embed__wrapper">
   <div class="oembed-gist">
@@ -131,9 +131,9 @@ Ao executar a nossa aplicação pela primeira vez temos o seguinte resultado:<fi
 
 <img src="http://carloscds.net/wp-content/uploads/2020/02/image-1.png" alt="" class="wp-image-10415" srcset="http://carloscds.net/wp-content/uploads/2020/02/image-1.png 406w, http://carloscds.net/wp-content/uploads/2020/02/image-1-300x116.png 300w" sizes="(max-width: 406px) 100vw, 406px" /> </figure> 
 
-Veja que temos o mesmo resultado tanto para &#8220;Serviço&#8221;, quanto para &#8220;ExecutaServico&#8221;, isto porque o &#8220;Transient&#8221; diz para instanciar todos os objetos na chamada, então temos DUAS instâncias de Servico()
+Veja que temos o mesmo resultado tanto para "Serviço", quanto para "ExecutaServico", isto porque o "Transient" diz para instanciar todos os objetos na chamada, então temos DUAS instâncias de Servico()
 
-Agora vamos mudar para &#8220;Scoped&#8221;:<figure class="wp-block-embed">
+Agora vamos mudar para "Scoped":<figure class="wp-block-embed">
 
 <div class="wp-block-embed__wrapper">
   <div class="oembed-gist">
@@ -171,7 +171,7 @@ O valores continuam mudando, pois a instância agora é para TODAS as chamadas d
 
 <img src="http://carloscds.net/wp-content/uploads/2020/02/image-5.png" alt="" class="wp-image-10419" srcset="http://carloscds.net/wp-content/uploads/2020/02/image-5.png 371w, http://carloscds.net/wp-content/uploads/2020/02/image-5-300x120.png 300w" sizes="(max-width: 371px) 100vw, 371px" /> </figure> 
 
-O valores vão mudando a cada chamada, pois o Singleton diz que &#8220;existirá&#8221; somente um objeto e ele será público para toda a aplicação.
+O valores vão mudando a cada chamada, pois o Singleton diz que "existirá" somente um objeto e ele será público para toda a aplicação.
 
 <p style="font-size:23px">
   <strong>Conclusão</strong>
@@ -181,7 +181,7 @@ O tipo de injeção de dependência ue você irá usar depende do tempo de vida 
 
   * Se você nao precisa manter o estado do objeto, use TRANSIENT
   * Se precisa compatilhar dados dentro da mesma chamada, use SCOPED
-  * E se precisar manter os &#8220;mesmos&#8221; dados durante toda a aplicação, use SINGLETON.
+  * E se precisar manter os "mesmos" dados durante toda a aplicação, use SINGLETON.
 
 Espero ter ajudado a entender um pouco mais deste fantástico mecanismo!
 

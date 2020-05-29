@@ -44,9 +44,9 @@ Ao pressionar o OK para criar o projeto, finalmente temos a IDE:
 
 [<img class="alignnone wp-image-10278" src="http://carloscds.net/wp-content/uploads/2018/12/vs2019-ide-300x105.png" alt="" width="846" height="296" srcset="http://carloscds.net/wp-content/uploads/2018/12/vs2019-ide-300x105.png 300w, http://carloscds.net/wp-content/uploads/2018/12/vs2019-ide-768x268.png 768w, http://carloscds.net/wp-content/uploads/2018/12/vs2019-ide-1024x358.png 1024w, http://carloscds.net/wp-content/uploads/2018/12/vs2019-ide-1025x358.png 1025w" sizes="(max-width: 846px) 100vw, 846px" />](http://carloscds.net/wp-content/uploads/2018/12/vs2019-ide.png)
 
-Esta nova IDE está mais &#8220;clean&#8221;, com uma pequena mudança na cor e também está mais rápida!
+Esta nova IDE está mais "clean", com uma pequena mudança na cor e também está mais rápida!
 
-Eu vou começar a utilizar a IDE como padrão para meus projetos, sim, aqui é &#8220;Dog Food&#8221; !!!
+Eu vou começar a utilizar a IDE como padrão para meus projetos, sim, aqui é "Dog Food" !!!
 
 Se você ainda não instalou o Visual Studio 2019 Preview, este é o link: <https://visualstudio.microsoft.com/pt-br/vs/preview/>
 

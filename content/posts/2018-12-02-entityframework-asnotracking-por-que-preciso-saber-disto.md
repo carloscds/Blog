@@ -42,7 +42,7 @@ Vamos agora consultar o banco e trazer uma categoria:
   </noscript>
 </div>
 
-A partir deste momento o objeto &#8220;cat&#8221; faz parte do mapeamento do EF, ou seja, ele irá fazer o tracker deste objeto, ou seja, controlar o status deste objeto perante o EF (novo, modificado, deletado, etc). Bom, até aí tudo bem, pois é exatamente isto que esperamos que ele faça.
+A partir deste momento o objeto "cat" faz parte do mapeamento do EF, ou seja, ele irá fazer o tracker deste objeto, ou seja, controlar o status deste objeto perante o EF (novo, modificado, deletado, etc). Bom, até aí tudo bem, pois é exatamente isto que esperamos que ele faça.
 
 O problema começa quando instanciamos outros objetos, lembrando que estamos em uma ambiente de injeção de dependência. Vamos então realizar uma nova consulta e também vamos listar os objetos que estão no tracker do EF:
 
@@ -60,13 +60,13 @@ _System.Data.Entity.DynamicProxies.Categories_58C84246D9EE9DEB309501406208337284
 
 Isto indica que o EF está mapeando os dois objetos, mesmo eles tendo sido consultados em diferentes instâncias da classe Dados, pois compartilham o mesmo contexto.
 
-Sendo assim, se enviarmos um comando SaveChanges() e tivermos mudados os dois objetos, mesmo &#8220;sem querer&#8221;, este serão enviados para o banco!
+Sendo assim, se enviarmos um comando SaveChanges() e tivermos mudados os dois objetos, mesmo "sem querer", este serão enviados para o banco!
 
 **E como resolvemos isto ???**
 
-Exitem várias maneiras de resolvermos, e talvez a primeira que vem a sua cabeça é &#8220;vamos instanciar outro contexto&#8221;, mas se eu fizer isto, qual o benefício da injeção de dependência neste caso ?
+Exitem várias maneiras de resolvermos, e talvez a primeira que vem a sua cabeça é "vamos instanciar outro contexto", mas se eu fizer isto, qual o benefício da injeção de dependência neste caso ?
 
-Para este tipo de situação temos o método &#8220;AsNoTracking()&#8221;, que em termos bem simples diz ao contexto para não mapear o objeto!
+Para este tipo de situação temos o método "AsNoTracking()", que em termos bem simples diz ao contexto para não mapear o objeto!
 
 Então vamos criar um outro método GetNoTracking() implementando esta chamada:
 

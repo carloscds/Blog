@@ -15,11 +15,11 @@ categories:
 ---
 Esta semana aconteceu algo interessante. Tenho um projeto hospedado em um host, que por sinal é muito eficiente, mas me surpreendeu quando perguntei se eles suportavam ASP.NET Core!
 
-A resposta foi &#8220;nosso técnico disse que o ASP.NET Core ainda não é estável&#8221;
+A resposta foi "nosso técnico disse que o ASP.NET Core ainda não é estável"
 
 Isto me deixou surpreso e ao mesmo tempo intrigado, pois a plataforma .NET Core já existe há alguns anos e vem melhorando e supreendendo a cada dia! Basta olharmos os números! ([Veja aqui um exemplo](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/))
 
-O ASP.NET Core roda &#8220;nativamente&#8221; em Linux e Mac, isto mesmo, não foi feito somente para Windows não, roda em diversas distribuições de Linux, com muita performance! Ainda não acredita, veja [aqui](https://dotnet.microsoft.com/download).
+O ASP.NET Core roda "nativamente" em Linux e Mac, isto mesmo, não foi feito somente para Windows não, roda em diversas distribuições de Linux, com muita performance! Ainda não acredita, veja [aqui](https://dotnet.microsoft.com/download).
 
 Mas você deve estar pensando que os números podem ser manipulados, certo! Errado!
 
@@ -33,7 +33,7 @@ Então, se você trabalha em um provedor ou desenvolve software, dê uma olhada 
 
 Tenho certeza que colocar o ASP.NET Core na sua estrutura não irá atrapalhar em nada o que já existe, faça o teste e deixe aqui nos comentários!
 
-Olhe também o Microsoft Azure, uma nuvem sensacional, com milhares de recursos, que certezamente irão &#8220;turbinar o seu projeto&#8221;.
+Olhe também o Microsoft Azure, uma nuvem sensacional, com milhares de recursos, que certezamente irão "turbinar o seu projeto".
 
 E se você já desenvolve em ASP.NET Core, comente aqui. Coloque suas experiências e impressões, mesmos que não tenham sido boas, pois assim podemos melhorar a plataforma!
 

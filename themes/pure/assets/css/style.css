@@ -4742,6 +4742,7 @@ a.label:focus {
 .panel .article-title {
   display: -webkit-box;
   overflow: hidden;
+  
   text-overflow: ellipsis;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
@@ -9455,3 +9456,5 @@ body.okayNav-loaded {
   border-left: 3px solid #ffcc00;
   background-color: #fffae6;
 }
+
+

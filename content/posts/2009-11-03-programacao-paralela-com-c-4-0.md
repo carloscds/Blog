@@ -28,7 +28,7 @@ Primeiramente vou montar um laço for tradicional:
   </p>
   
   <p style="margin: 0px;">
-    <span style="color: #2b91af;">3</span>                 <span style="color: #2b91af;">Console</span>.WriteLine(<span style="color: blue;">&#8220;Contador: {0}&#8221;</span>, i);
+    <span style="color: #2b91af;">3</span>                 <span style="color: #2b91af;">Console</span>.WriteLine(<span style="color: blue;">"Contador: {0}"</span>, i);
   </p>
   
   <p style="margin: 0px;">
@@ -48,7 +48,7 @@ Agora o mesmo for com progamação paralela:
   </p>
   
   <p style="margin: 0px;">
-    <span style="color: #2b91af;">3</span>                 <span style="color: #2b91af;">Console</span>.WriteLine(<span style="color: blue;">&#8220;Contador: {0}&#8221;</span>, i);
+    <span style="color: #2b91af;">3</span>                 <span style="color: #2b91af;">Console</span>.WriteLine(<span style="color: blue;">"Contador: {0}"</span>, i);
   </p>
   
   <p style="margin: 0px;">
@@ -62,7 +62,7 @@ Agora vamos fazer um exemplo com ForEach, primeiro no modo tradicional:
 
 <div style="font-family: consolas; background: white; color: black; font-size: 10pt;">
   <p style="margin: 0px;">
-    <span style="color: #2b91af;">1</span> <span style="color: #2b91af;">List</span><<span style="color: blue;">string</span>> lista = <span style="color: blue;">new</span> <span style="color: #2b91af;">List</span><<span style="color: blue;">string</span>>() { <span style="color: blue;">&#8220;Carlos&#8221;</span>, <span style="color: blue;">&#8220;Leandro&#8221;</span>, <span style="color: blue;">&#8220;João&#8221;</span>, <span style="color: blue;">&#8220;Maria&#8221;</span> };
+    <span style="color: #2b91af;">1</span> <span style="color: #2b91af;">List</span><<span style="color: blue;">string</span>> lista = <span style="color: blue;">new</span> <span style="color: #2b91af;">List</span><<span style="color: blue;">string</span>>() { <span style="color: blue;">"Carlos"</span>, <span style="color: blue;">"Leandro"</span>, <span style="color: blue;">"João"</span>, <span style="color: blue;">"Maria"</span> };
   </p>
   
   <p style="margin: 0px;">
@@ -78,7 +78,7 @@ Agora vamos fazer um exemplo com ForEach, primeiro no modo tradicional:
   </p>
   
   <p style="margin: 0px;">
-    <span style="color: #2b91af;">5</span>                 <span style="color: #2b91af;">Console</span>.WriteLine(<span style="color: blue;">&#8220;Nome: {0}&#8221;</span>, nome);
+    <span style="color: #2b91af;">5</span>                 <span style="color: #2b91af;">Console</span>.WriteLine(<span style="color: blue;">"Nome: {0}"</span>, nome);
   </p>
   
   <p style="margin: 0px;">
@@ -107,7 +107,7 @@ Agora vamos fazer um exemplo com ForEach, primeiro no modo tradicional:
     </p>
     
     <p style="margin: 0px;">
-      <span style="color: #2b91af;">3</span>                 <span style="color: #2b91af;">Console</span>.WriteLine(<span style="color: blue;">&#8220;Nome: {0}&#8221;</span>, nome);
+      <span style="color: #2b91af;">3</span>                 <span style="color: #2b91af;">Console</span>.WriteLine(<span style="color: blue;">"Nome: {0}"</span>, nome);
     </p>
     
     <p style="margin: 0px;">

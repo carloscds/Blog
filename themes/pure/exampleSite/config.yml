@@ -89,6 +89,7 @@ params:
     books: icon-book-fill
     links: icon-friendship
     about: icon-cup-fill
+    contact: icon-friendship
 
   # profile
   profile:

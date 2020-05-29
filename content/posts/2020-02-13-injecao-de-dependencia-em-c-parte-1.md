@@ -16,7 +16,7 @@ Olá,
 
 Hoje em dia muito se tem se falado muito em injeção de dependência, principalmente se você desenvolve ou está começando a desenvolver com ASP.NET Core.
 
-Mas que realmente significa &#8220;injetar&#8221; uma dependência e o que é a tal dependência?
+Mas que realmente significa "injetar" uma dependência e o que é a tal dependência?
 
 <p style="font-size:23px">
   <strong>Conceito</strong>
@@ -120,7 +120,7 @@ Como o NInject é um dos mais conhecidos, vamos montar um exemplo com ele. A id�
 
 A grande diferença agora é que não precisamos mais instanciar a classe! Opa como assim!
 
-Isto mesmo, o mecanisco de injeção de dependência, neste caso o NInject, fará isto para nós &#8220;magicamente&#8221;!
+Isto mesmo, o mecanisco de injeção de dependência, neste caso o NInject, fará isto para nós "magicamente"!
 
 Vamos ao exemplo!
 
@@ -160,7 +160,7 @@ Por fim, vamos implementar o NInject:<figure class="wp-block-embed">
   </div>
 </div></figure> 
 
-Primeiro criamos o objeto &#8220;inject&#8221; que contém o mecanismo do NInject.
+Primeiro criamos o objeto "inject" que contém o mecanismo do NInject.
 
 Depois informamos ao NInject quem será injetado, ou seja, toda vez que a interface IServico for utilizada a classe MeuServico será criada e passada!
 
@@ -173,11 +173,11 @@ Por último criamos a instância da classe executora e chamamos o método:
 _var obj = inject.Get<ExecutaDI>();  
 obj.Executa();_
 
-Neste caso quem instanciou o objeto foi o NInject quando chamamos o &#8220;Get&#8221;.
+Neste caso quem instanciou o objeto foi o NInject quando chamamos o "Get".
 
 Assim não precisamos nos preocupar com a criação dos objetos! 
 
-Então o NInject &#8220;injeta&#8221; um objeto da classe MeuServico toda vez que encontra uma interface IServico.
+Então o NInject "injeta" um objeto da classe MeuServico toda vez que encontra uma interface IServico.
 
 <p style="font-size:23px">
   Conclusão

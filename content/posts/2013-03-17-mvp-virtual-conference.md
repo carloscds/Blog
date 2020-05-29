@@ -37,7 +37,7 @@ Exemplo de cenário_**_: Para você profissional da área, entender Consumeriza�
 **Segurança**  
 **Responsável**: Rodrigo Immaginario – MVP  
 **Palestrantes**: Rodrigo Immaginario (MVP), Alberto Oliveira (MVP), Luciano Lima (MVP), Marcos Tupinambá (MVP)  
-**_Exemplo de cenário abordado_**_: Uma empresa de consultoria, que possui diversos colaboradores trabalhando de forma remota, recentemente identificou diversas falhas de segurança em sua rede local e na proteção dos seus projetos confidenciais. Para melhorar a segurança do seu ambiente será adotado o conceito de &#8220;defesa em profundidade&#8221; mas o projeto deverá ser implementado com o mínimo de investimento e em curto espaço de tempo. Veja como as tecnologias já disponíveis nos sistemas operacionais da Microsoft (Server e Client) pode ajudar._  
+**_Exemplo de cenário abordado_**_: Uma empresa de consultoria, que possui diversos colaboradores trabalhando de forma remota, recentemente identificou diversas falhas de segurança em sua rede local e na proteção dos seus projetos confidenciais. Para melhorar a segurança do seu ambiente será adotado o conceito de "defesa em profundidade" mas o projeto deverá ser implementado com o mínimo de investimento e em curto espaço de tempo. Veja como as tecnologias já disponíveis nos sistemas operacionais da Microsoft (Server e Client) pode ajudar._  
 [Inscreva-se agora](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032547864&Culture=pt-BR&community=1) 
 
 **Gerenciamento de Projetos e Equipes de Desenvolvimento**  

@@ -22,24 +22,24 @@ Para criarmos a aplicaçao console:
 
 **dotnet new console**<figure class="wp-block-image">
 
-<img src="https://carloscds.net/wp-content/uploads/2019/07/image.png" alt="" class="wp-image-10370" srcset="http://carloscds.net/wp-content/uploads/2019/07/image.png 791w, http://carloscds.net/wp-content/uploads/2019/07/image-300x126.png 300w, http://carloscds.net/wp-content/uploads/2019/07/image-768x322.png 768w" sizes="(max-width: 791px) 100vw, 791px" /> <figcaption>  
+![](/wp-content/uploads/2019/07/image.png" alt="" class="wp-image-10370" srcset="http://carloscds.net/wp-content/uploads/2019/07/image.png 791w, http://carloscds.net/wp-content/uploads/2019/07/image-300x126.png 300w, http://carloscds.net/wp-content/uploads/2019/07/image-768x322.png 768w" sizes="(max-width: 791px) 100vw, 791px" /> <figcaption>  
 </figcaption></figure> 
 
-Agora temos uma aplicação console criada. Tradicionalmente executamos o comando &#8220;publish&#8221; para publicarmos a nossa aplicação. Vou fazer isto usando o diretório &#8220;pub&#8221; como exemplo:
+Agora temos uma aplicação console criada. Tradicionalmente executamos o comando "publish" para publicarmos a nossa aplicação. Vou fazer isto usando o diretório "pub" como exemplo:
 
 **dotnet publish -o pub**<figure class="wp-block-image">
 
-<img src="https://carloscds.net/wp-content/uploads/2019/07/image-1.png" alt="" class="wp-image-10371" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-1.png 934w, http://carloscds.net/wp-content/uploads/2019/07/image-1-300x214.png 300w, http://carloscds.net/wp-content/uploads/2019/07/image-1-768x548.png 768w, http://carloscds.net/wp-content/uploads/2019/07/image-1-701x500.png 701w" sizes="(max-width: 934px) 100vw, 934px" /> </figure> 
+![](/wp-content/uploads/2019/07/image-1.png" alt="" class="wp-image-10371" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-1.png 934w, http://carloscds.net/wp-content/uploads/2019/07/image-1-300x214.png 300w, http://carloscds.net/wp-content/uploads/2019/07/image-1-768x548.png 768w, http://carloscds.net/wp-content/uploads/2019/07/image-1-701x500.png 701w" sizes="(max-width: 934px) 100vw, 934px" /> </figure> 
 
-Olhando o diretório &#8220;pub&#8221; temos os arquivos da aplicação. Até aqui nada de novo ok! Vou acrescentar um pacote ao projeto, o NewtonSoft.Json, só para exemplificar a publicação com um pacote:
+Olhando o diretório "pub" temos os arquivos da aplicação. Até aqui nada de novo ok! Vou acrescentar um pacote ao projeto, o NewtonSoft.Json, só para exemplificar a publicação com um pacote:
 
 **dotnet add package Newtonsoft.Json**<figure class="wp-block-image">
 
-<img src="https://carloscds.net/wp-content/uploads/2019/07/image-2.png" alt="" class="wp-image-10372" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-2.png 1008w, http://carloscds.net/wp-content/uploads/2019/07/image-2-300x143.png 300w, http://carloscds.net/wp-content/uploads/2019/07/image-2-768x366.png 768w" sizes="(max-width: 1008px) 100vw, 1008px" /> </figure> 
+![](/wp-content/uploads/2019/07/image-2.png" alt="" class="wp-image-10372" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-2.png 1008w, http://carloscds.net/wp-content/uploads/2019/07/image-2-300x143.png 300w, http://carloscds.net/wp-content/uploads/2019/07/image-2-768x366.png 768w" sizes="(max-width: 1008px) 100vw, 1008px" /> </figure> 
 
 Vou publicar novamente e veremos o resultado:<figure class="wp-block-image">
 
-<img src="https://carloscds.net/wp-content/uploads/2019/07/image-4.png" alt="" class="wp-image-10374" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-4.png 436w, http://carloscds.net/wp-content/uploads/2019/07/image-4-300x125.png 300w" sizes="(max-width: 436px) 100vw, 436px" /> </figure> 
+![](/wp-content/uploads/2019/07/image-4.png" alt="" class="wp-image-10374" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-4.png 436w, http://carloscds.net/wp-content/uploads/2019/07/image-4-300x125.png 300w" sizes="(max-width: 436px) 100vw, 436px" /> </figure> 
 
 Ok, agora temos também a Newtonsoft.Json.dll. Agora você pode copiar tudo para a produção, instalar o .NET Core Runtime e tá pronto!
 
@@ -58,9 +58,9 @@ Explicando o comando:
 **-c release** indica que estamos publicando no modo release  
 **&#8211;self-contained** indica que tudo estará na para de publicação, incluindo o .NET Core Runtime.
 
-Veja que eu mudei o diretório para &#8220;pubself&#8221; e o conteúdo agora é a aplicação e o .NET Core runtime:<figure class="wp-block-image">
+Veja que eu mudei o diretório para "pubself" e o conteúdo agora é a aplicação e o .NET Core runtime:<figure class="wp-block-image">
 
-<img src="https://carloscds.net/wp-content/uploads/2019/07/image-5-1024x633.png" alt="" class="wp-image-10375" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-5-1024x633.png 1024w, http://carloscds.net/wp-content/uploads/2019/07/image-5-300x185.png 300w, http://carloscds.net/wp-content/uploads/2019/07/image-5-768x475.png 768w, http://carloscds.net/wp-content/uploads/2019/07/image-5-809x500.png 809w, http://carloscds.net/wp-content/uploads/2019/07/image-5.png 1243w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+![](/wp-content/uploads/2019/07/image-5-1024x633.png" alt="" class="wp-image-10375" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-5-1024x633.png 1024w, http://carloscds.net/wp-content/uploads/2019/07/image-5-300x185.png 300w, http://carloscds.net/wp-content/uploads/2019/07/image-5-768x475.png 768w, http://carloscds.net/wp-content/uploads/2019/07/image-5-809x500.png 809w, http://carloscds.net/wp-content/uploads/2019/07/image-5.png 1243w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
 
 Com o conteúdo deste diretório podemos rodar nossa aplicação em um computador com Windows x64, sem precisar instalar o .NET Core Runtime. (para uma lista das plataforma acesse [aqui](https://docs.microsoft.com/pt-br/dotnet/core/rid-catalog)), 
 
@@ -72,7 +72,7 @@ Com o [.NET Core 3.0 Preview 6](https://dotnet.microsoft.com/download/dotnet-cor
 
 Veja o resultado:<figure class="wp-block-image">
 
-<img src="https://carloscds.net/wp-content/uploads/2019/07/image-6.png" alt="" class="wp-image-10376" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-6.png 362w, http://carloscds.net/wp-content/uploads/2019/07/image-6-300x115.png 300w" sizes="(max-width: 362px) 100vw, 362px" /> </figure> 
+![](/wp-content/uploads/2019/07/image-6.png" alt="" class="wp-image-10376" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-6.png 362w, http://carloscds.net/wp-content/uploads/2019/07/image-6-300x115.png 300w" sizes="(max-width: 362px) 100vw, 362px" /> </figure> 
 
 Agora temos tudo em um único arquivo, otimizado! Mas ainda ficou um pouco grande, certo! Para isto temos mais um comando: **PublishTrimmed**, veja:
 
@@ -80,7 +80,7 @@ Agora temos tudo em um único arquivo, otimizado! Mas ainda ficou um pouco grand
 
 Este comando demora um pouco mais, pois ele irá otimizar o uso das DLLs e construir um arquivo bem menor, veja:<figure class="wp-block-image">
 
-<img src="https://carloscds.net/wp-content/uploads/2019/07/image-7.png" alt="" class="wp-image-10377" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-7.png 337w, http://carloscds.net/wp-content/uploads/2019/07/image-7-300x107.png 300w" sizes="(max-width: 337px) 100vw, 337px" /> </figure> 
+![](/wp-content/uploads/2019/07/image-7.png" alt="" class="wp-image-10377" srcset="http://carloscds.net/wp-content/uploads/2019/07/image-7.png 337w, http://carloscds.net/wp-content/uploads/2019/07/image-7-300x107.png 300w" sizes="(max-width: 337px) 100vw, 337px" /> </figure> 
 
 Resumindo, agora com um único arquivo, você tem toda a aplicação e o RunTime do .NET Core para executar! 
 

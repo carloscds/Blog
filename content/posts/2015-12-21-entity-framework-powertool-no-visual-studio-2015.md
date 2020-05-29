@@ -27,7 +27,7 @@ Não sei se vocês sabem, mas o aqrquivo VSIX é na verdade um arquivo ZIP, ent�
 
 Agora vamos abrir o aqrquivo “extension.vsixmanifest”, pois é nele que estão as versões suportadas do Visual Studio. Com o arquivo aberto vamos adicionar as linhas, logo abaixo do bloco da versão 12.0:
 
-<VisualStudio Version=&#8221;14.0&#8243;>  
+<VisualStudio Version="14.0&#8243;>  
 <Edition>Pro</Edition>  
 </VisualStudio>
 

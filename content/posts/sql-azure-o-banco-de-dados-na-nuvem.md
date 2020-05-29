@@ -25,13 +25,11 @@ Vejamos o seguinte exemplo:
 
 No SQL local, que todos estamos acostumados, para acessar um BD basta criar uma string de conexão assim:
 
-<pre><a href="file:///C:/Users/cds.CDSSERVER/AppData/Local/Temp/WindowsLiveWriter-429641856/supfiles252A1/image10.png"><img style="display: inline; border: 0px;" title="image_thumb6" src="http://carloscds.net/wp-content/uploads/image_thumb6.png" border="0" alt="image_thumb6" width="658" height="42" /></a></pre>
-
- 
+![](/wp-content/uploads/image_thumb6.png)
 
 Para conectar no SQL Azure:
 
-[<img style="display: inline; border: 0px;" title="image_thumb16" src="http://carloscds.net/wp-content/uploads/image_thumb16.png" border="0" alt="image_thumb16" width="673" height="32" />](file:///C:/Users/cds.CDSSERVER/AppData/Local/Temp/WindowsLiveWriter-429641856/supfiles252A1/image30.png)
+![](/wp-content/uploads/image_thumb16.png)
 
 Veja a diferença: você apenas mudou o datasource para o endereço do Azure, o usuário e a senha. Todos os outros comandos são os mesmos, ou seja: SqlCommand, SqlDataAdapter, SqlDataReader, etc. Tudo exatamente igual.
 
@@ -39,11 +37,11 @@ Aqui na empresa fizemos um teste interessante, pegamos nosso ERP e criamos toda 
 
 O SQL Azure está em fase Beta e pode ser acessado no endereço: <http://sql.azure.com>. Basta entrar com seu Windows Live ID e solicitar um convite (invite), por enquanto ainda existem. Depois disto é só logar na ferramenta web e criar o seu banco de dados, veja:
 
-[<img style="display: inline; border: 0px;" title="image_thumb10" src="http://carloscds.net/wp-content/uploads/image_thumb10.png" border="0" alt="image_thumb10" width="657" height="192" />](file:///C:/Users/cds.CDSSERVER/AppData/Local/Temp/WindowsLiveWriter-429641856/supfiles252A1/image18.png)
+[![](/wp-content/uploads/image_thumb10.png)
 
 Aqui você tem acesso aos seus servidores de SQL e clicando em <span style="color: #ff0000;">Manage</span> você tem acesso a administração dos seus bancos de dados:
 
-[<img style="display: inline; border: 0px;" title="image_thumb14" src="http://carloscds.net/wp-content/uploads/image_thumb14.png" border="0" alt="image_thumb14" width="663" height="292" />](file:///C:/Users/cds.CDSSERVER/AppData/Local/Temp/WindowsLiveWriter-429641856/supfiles252A1/image26.png)
+![](/wp-content/uploads/image_thumb14.png)
 
 Clicando no botão “Connection Strings” o Azure mostra a string de conexão que você deverá usar na sua aplicação, e depois é só acessar o BD e começar os testes!
 

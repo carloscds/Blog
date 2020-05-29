@@ -11,7 +11,7 @@ categories:
 ---
 Caros amigos, no final do mês passado estive no Chile, juntamente com o meu amigo MVP Jamil Lopes, para participarmos do TechDays ([www.techdays.cl](http://www.techdays.cl)), que é a versão do Chile para o nosso TechED ([www.teched.com.br](http://www.teched.com.br)), só que acontece em apenas um dia.
 
-Nesta nossa viagem, tivemos a satisfação de termos como nosso “guia” o MVP &#8220;chileno-brasileiro” Jorge Diaz, que reside na cidade de Sntiago.
+Nesta nossa viagem, tivemos a satisfação de termos como nosso “guia” o MVP "chileno-brasileiro” Jorge Diaz, que reside na cidade de Sntiago.
 
 Inicialmente, chegando lá, fomos conhecer as vinícolas, que produzem um vinho de altíssima qualidade, de padrão internacional. Conhecemos também cidades turísticas da costa do Chile, como Val Paraíso, Vina de Mar, onde tive a satisfação de ver o Oceano Pacífico, que tem uma água extremamente gelada.
 

@@ -13,7 +13,7 @@ categories:
 ---
 Você é do tipo que as vezes muda o conteúdo de uma view no ambiente de produção ? 
 
-Isto pode ser algo &#8220;questionável&#8221;, mas é também muito útil se você precisa fazer um pequeno ajuste na parte visual na aplicação.
+Isto pode ser algo "questionável", mas é também muito útil se você precisa fazer um pequeno ajuste na parte visual na aplicação.
 
 Eu já precisei mudar códigos JavaScript nas páginas em uma aplicação onde não poderia executar uma nova publicação, e esta facilidade me poupou muito tempo!
 
@@ -23,11 +23,11 @@ Para demonstrar este comportamento, vamos criar um projeto ASP.NET Core 2.2 no V
 
 ![](/wp-content/uploads/2019/09/image.png)
 
-Agora vamos simplesmente publicar este projeto em um diretório, usando a opção Publish da Solution e escolhendo &#8220;Folder&#8221;:
+Agora vamos simplesmente publicar este projeto em um diretório, usando a opção Publish da Solution e escolhendo "Folder":
 
 ![](/wp-content/uploads/2019/09/image-2.png) 
 
-Após clicar no botão &#8220;Create Profile&#8221; clique novamente em &#8220;Publish&#8221; 
+Após clicar no botão "Create Profile" clique novamente em "Publish" 
 
 Abrindo o diretório, temos os seguintes arquivos:
 
@@ -37,7 +37,7 @@ Veja que não temos uma pasta Views.
 
 **Fazendo a mudança no arquivo de projeto:**
 
-Mas fazendo uma pequena mudança no arquivo .CSPROJ, acrescentando a tag **RazorCompileOnPublish** e marcando com &#8220;false&#8221;:
+Mas fazendo uma pequena mudança no arquivo .CSPROJ, acrescentando a tag **RazorCompileOnPublish** e marcando com "false":
 
 ![](/wp-content/uploads/2019/09/image-5-1024x356.png)
 
