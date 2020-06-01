@@ -3,6 +3,7 @@ theme: pure
 title: Carlos dos Santos
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
+removePathAccents : true
 hasCJKLanguage: true
 paginate: 7
 enableEmoji: true
@@ -15,7 +16,7 @@ taxonomies:
     category : categories
     tag : tags
     series : series
-    removePathAccents : true
+    
 outputFormats:          # use for search. recommend not to modify 
   SearchIndex:
     mediaType: "application/json"
