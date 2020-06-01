@@ -22,16 +22,16 @@ Agradecemos o convite da universidade e esperamos voltar lá em breve.
 
 Vejam as fotos:
 
-![](/wp-content/uploads/DSC04746.jpg) 
-![](/wp-content/uploads/DSC04747.jpg) 
-![](/wp-content/uploads/DSC04748.jpg) 
-![](/wp-content/uploads/DSC04750.jpg) 
-![](/wp-content/uploads/DSC04751.jpg) 
-![](/wp-content/uploads/DSC04752.jpg) 
-![](/wp-content/uploads/DSC04753.jpg) 
-![](/wp-content/uploads/DSC04754.jpg) 
-![](/wp-content/uploads/DSC04755.jpg) 
-![](/wp-content/uploads/DSC04756.jpg)
+![]( wp-content/uploads/DSC04746.jpg) 
+![]( wp-content/uploads/DSC04747.jpg) 
+![]( wp-content/uploads/DSC04748.jpg) 
+![]( wp-content/uploads/DSC04750.jpg) 
+![]( wp-content/uploads/DSC04751.jpg) 
+![]( wp-content/uploads/DSC04752.jpg) 
+![]( wp-content/uploads/DSC04753.jpg) 
+![]( wp-content/uploads/DSC04754.jpg) 
+![]( wp-content/uploads/DSC04755.jpg) 
+![]( wp-content/uploads/DSC04756.jpg)
 
 []s,  
 Carlos dos Santos.

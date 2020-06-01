@@ -26,10 +26,10 @@ Gostaria de agradecer ao Prof. Rodolfo Barriviera pela oportunidade e pela conve
 
 Vejam as fotos:
 
-![](/wp-content/uploads/2011/04/1.jpg)
-![](/wp-content/uploads/2011/04/2.jpg)
-![](/wp-content/uploads/2011/04/3.jpg)
-![](/wp-content/uploads/2011/04/4.jpg)
+![]( wp-content/uploads/2011/04/1.jpg)
+![]( wp-content/uploads/2011/04/2.jpg)
+![]( wp-content/uploads/2011/04/3.jpg)
+![]( wp-content/uploads/2011/04/4.jpg)
 
 Abraços e até a próxima,  
 Carlos dos Santos.

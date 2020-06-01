@@ -18,7 +18,7 @@ Pessoal, seguindo com os posts sobre C# básico, vou mostrar como passar parâme
 
 Primeiramente crie uma aplicação Windows Forms:
 
-![](/wp-content/uploads/2010/09/image2.png)
+![]( wp-content/uploads/2010/09/image2.png)
 
 Eu estou usando o Visual Studio 2010 e o Framework 4, mas você pode usar qualquer versão do Visual Studio para executar este exemplo.
 
@@ -53,7 +53,7 @@ Neste exemplo eu criei uma variável chamada parametros que irá receber os argu
 
 Primeiro você testa se recebeu algum parâmetro e depois faz a verificação. Eu fiz a conversão para Upper() fica mais simples a verificação. Agora você pode estar se perguntando, como vou fazer debug da aplicação e passar o parâmetro ? Isto você pode configurar na janela de propriedades do projeto em Project/Properties/Debug:
 
-![](/wp-content/uploads/2010/09/image_thumb3.png)
+![]( wp-content/uploads/2010/09/image_thumb3.png)
 
 Se você precisar testar mais de um parâmetro ao mesmo tempo, basta colocá-los separados por espaços, do mesmo modo que faria no prompt de comandos. Agora para finalizar, vou mostrar como passar o parâmetro para o form principal da aplicação. Para isto teremos que modificar o construtor do form, veja:
 

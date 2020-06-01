@@ -17,12 +17,12 @@ A palestra foi muito interessante e com muita participação da equipe de desenv
 
 Agrademos o convite e esperamos que a palestra tenha mostrado todo o potencial do Silverlight.Net
 
-![](/wp-content/uploads/DSC01632.jpg)   
+![]( wp-content/uploads/DSC01632.jpg)   
 Márcio demonstrando Silverlight.
 
-![](/wp-content/uploads/DSC01633.jpg)  
+![]( wp-content/uploads/DSC01633.jpg)  
 
-![](/wp-content/uploads/DSC01635.jpg)  
+![]( wp-content/uploads/DSC01635.jpg)  
 
 Equipe de desenvolvimento da Agili.
 

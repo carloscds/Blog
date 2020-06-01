@@ -12,7 +12,7 @@ categories:
 tags:
   - 'msdn;c#;azure'
 ---
-![](http://lucasromao.azurewebsites.net/wp-content/uploads/2013/04/bootcamp1-300x202.png)
+![](http://lucasromao.azurewebsites.net wp-content/uploads/2013/04/bootcamp1-300x202.png)
 
 Olá pessoal, 
 

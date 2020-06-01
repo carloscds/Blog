@@ -18,7 +18,7 @@ A ferramenta é bastante simples, você baixa um executável do site [www.efprof
 
 Para o profiler funciona, você precisa adicionar a referência de um DLL do Profiler ao seu projeto: 
 
-![](/wp-content/uploads/2010/08/image2.png)
+![]( wp-content/uploads/2010/08/image2.png)
 
 Depois, no arquivo principal do projeto, você executa o inicializador do profiler:
 
@@ -43,6 +43,6 @@ No exemplo acima, temos uma simples consulta ao banco de dados.
 
 Agora abra o profiler e execute sua aplicação, os resultados irão aparecer na tela:
 
-![](/wp-content/uploads/2010/08/image_thumb4.png)
+![]( wp-content/uploads/2010/08/image_thumb4.png)
 
 É isto aí pessoal, bom profiler para vocês!

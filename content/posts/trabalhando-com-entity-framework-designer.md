@@ -22,19 +22,19 @@ Existem, basicamente, duas maneiras de se trabalhar com o Entity Framework, usan
 
 Abra o Visual Studio 2010 e crie um projeto no .Net Framework 4 do tipo Console Application, depois vá em adcionar novo item. Você verá a janela abaixo, escolha ADO.Net Entity Data Model:
 
-![](/wp-content/uploads/2012/01/SNAGHTML9dffcc9.png)
+![]( wp-content/uploads/2012/01/SNAGHTML9dffcc9.png)
 
 Podemos ainda escolher se iremos nosso modelo a partir de um banco de dados pronto ou em branco:
 
-![](/wp-content/uploads/2012/01/image.png)
+![]( wp-content/uploads/2012/01/image.png)
 
 Vamos gerar nosso exemplo a partir do banco de dados [Northwind](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs), escolhendo a opção “Generate from database”. Na tela seguinte crie a conexão para o banco de dados e depois escolha quais tabelas, views ou stored procedures você quer mapear:
 
-![](/wp-content/uploads/2012/01/SNAGHTML9e3d339.png)
+![]( wp-content/uploads/2012/01/SNAGHTML9e3d339.png)
 
 No nosso exemplo ou escolher todas as tabelas, views e stored procedures. Feito isto teremos o modelo visual pronto:
 
-![](/wp-content/uploads/2012/01/image1.png)
+![]( wp-content/uploads/2012/01/image1.png)
 
 Este processo gerou um modelo EDMX, que contém basicamente três partes:
 
@@ -44,7 +44,7 @@ Este processo gerou um modelo EDMX, que contém basicamente três partes:
 
 O código fonte das classes também faz parte do modelo,dentro do arquivo de Designer:
 
-![](/wp-content/uploads/2012/01/image2.png)
+![]( wp-content/uploads/2012/01/image2.png)
 
 Este arquivo contém o código fonte de todas as classes de nosso modelo. Mas então se eu criar um modelo novo as classes serão geradas novamente ? A resposta é SIM.
 
@@ -56,19 +56,19 @@ Opa, mas então temos um problema, teremos classes duplicadas e como vamos resol
 
 A primeira coisa que precisamos fazer é desativar a geração de código pelo designer. Isto é simples, basta desligarmos a propriedade Code Generation Strategy do modelo, colocando em none:
 
-![](/wp-content/uploads/2012/01/image3.png)
+![]( wp-content/uploads/2012/01/image3.png)
 
 Agora precisamos adicionar novamente as classes e para isto iremos utilizar um gerador automático de código, que iremos adicionar ao nosso projeto:
 
-![](/wp-content/uploads/2012/01/SNAGHTML9f0e092.png)
+![]( wp-content/uploads/2012/01/SNAGHTML9f0e092.png)
 
 Ao adicionarmos o ADO.Net POCO Entity Generator, dois novos arquivos irão aparecer em nosso projeto: Model1.Context.tt e Model1.tt. Para gerar as classes precisamos abrir cada um deles e colocar o nome do nosso arquivo EDMX, Veja o exemplo:
 
-![](/wp-content/uploads/2012/01/image4.png)
+![]( wp-content/uploads/2012/01/image4.png)
 
 No nosso exemplo ficará assim: string inputFile = @”model1.edmx”. Faça o mesmo no arquivo Model1.tt. Depois de fazer isto salve o arquivo e o nosso projeto ficará assim:
 
-![](/wp-content/uploads/2012/01/image5.png)
+![]( wp-content/uploads/2012/01/image5.png)
 
 Agora temos classes POCO, que são independentes do designer. Se você modificar o designer, assim que salvá-lo as classes serão atualizadas automaticamente.
 

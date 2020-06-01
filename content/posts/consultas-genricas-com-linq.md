@@ -18,11 +18,11 @@ Aproveitando esta situação, vou mostrar como é possível criar um método de 
 
 Para o nosso exemplo, vamos criar um projeto console bem simples, lembrando que usaremos o Visual Studio 2010 com o Entity Framework 4:
 
-![](/wp-content/uploads/2010/07/image.png)
+![]( wp-content/uploads/2010/07/image.png)
 
 Agora vamos adicionar o modelo do Entity Framework, para este exemplo usaremos o banco de dados Northwind, caso você não o tenha, baixe [aqui](http://www.microsoft.com/downloads/details.aspx?familyid=06616212-0356-46a0-8da2-eebc53a68034&displaylang=en). Para adicionar o modelo, clique com o botão direito do mouse sobre o seu projeto e vá em Add/New Item, ou CTRL + SHIFT + A e selecione Data e depois ADO.Net Entity Data Model. Escolha Generate from database e crie a conexão com o seu banco de dados Northwind. Selecione algumas tabelas, por exemplo: Categories, Products, Customers:</font>
 
-![](/wp-content/uploads/2010/07/image1.png)
+![]( wp-content/uploads/2010/07/image1.png)
 
 Criado o arquivo EDMX, vamos para o método de Consulta:
 

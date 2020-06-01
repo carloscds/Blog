@@ -19,7 +19,7 @@ Costumo dizer que é um trabalho interessante e que ajuda também a aumentar meu
 
 Vejam abaixo o belíssimo troféu que recebi, juntamente com uma carta de agradecimentos assinada pelo Somasegar (Senior Vice President a Developer Division) e um Microsoft Arc Mouse.
 
-![](/wp-content/uploads/2011/10/DSC05926.jpg)
+![]( wp-content/uploads/2011/10/DSC05926.jpg)
 
 Abraços,  
 Carlos.

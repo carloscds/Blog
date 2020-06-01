@@ -22,11 +22,11 @@ O Entity Framework faz uma ponte entre as classes POCO e o banco de dados utiliz
 
 Antes de começarmos a escrever as classes, precisamos instalar o Entity Framework CodeFirst, que é basicamente composto pela EntityFramework.DLL. Faremos isto isando o NuGet, que é um instalador de pacotes para o Visual Studio. Se você ainda não o possui, vá até o Extension Manager do Visual Studio (Tools/Extension Manager) e instale:
 
-![](/wp-content/uploads/2012/01/SNAGHTMLa23ac4a_thumb1_thumb8.png)
+![]( wp-content/uploads/2012/01/SNAGHTMLa23ac4a_thumb1_thumb8.png)
 
 Depois de instalado o NuGet, vá em Tools/Library Package Manager/Package Manager Console. Isto vai abrir o gerenciador do NuGet:
 
-![](http://carloscds.net/wp-content/uploads/2012/01/image_thumb1_thumb8.png)
+![](http://carloscds.net wp-content/uploads/2012/01/image_thumb1_thumb8.png)
 
 Agora digite o comando: **Install-Package EntityFramework** dentro do console, isto irá instalara o EF CodeFirst e suas dependências:
 
@@ -162,7 +162,7 @@ O código acima cria o nosso banco de dados no SQL, caso ele não exista (linha 
 
 Assim ao final do código temos o banco de dados criado e os dados inseridos. Veja como ficou o banco de dados no Management Studio:
 
-![](/wp-content/uploads/2012/01/image_thumb3_thumb1_thumb6.png)
+![]( wp-content/uploads/2012/01/image_thumb3_thumb1_thumb6.png)
 
 Veja que o nome do banco de dados é o nome da aplicação mais o nome do Contexto, mas podemos resolver isto adicionando um arquivo App.Config e informando os dados do banco, então vamos adicionar um arquivo de configuração ao nosso exemplo e colocar a seguinte linha:
 
@@ -185,21 +185,21 @@ Mas e se você quiser ver como está ficando seu modelo se você está usando so
 
 Após instalar o PowerTools, clique com o botão direito do mouse sobre a classe Contexto.cs no seu projeto, irá aparecer um menu de contexto EntityFramework, com várias opções:
 
-![](/wp-content/uploads/2012/01/image_thumb5_thumb1_thumb6.png)
+![]( wp-content/uploads/2012/01/image_thumb5_thumb1_thumb6.png)
 
 A primeira opção é justamente a que mostra o modelo gráfico, vamos vê-lo então:
 
-![](/wp-content/uploads/2012/01/image_thumb31_thumb6.png)
+![]( wp-content/uploads/2012/01/image_thumb31_thumb6.png)
 
 Já tenho um banco de dados e quero usar o CodeFirst:
 
 Se você já tiver um banco de dados, o EF PowerTools permite que você faça engenharia reversa e gere o contexto e as classes, para isto clique com o botão direito do mouse em sua Solution no Visual Studio e escolhar Entity Framework no menu:
 
-![](/wp-content/uploads/2012/01/image_thumb9_thumb1_thumb6.png)
+![]( wp-content/uploads/2012/01/image_thumb9_thumb1_thumb6.png)
 
 Esta opção gera todas as classes e relacionamentos do seu modelo, basta informar qual o banco de dados e o servidor na janela abaixo:
 
-![](/wp-content/uploads/2012/01/SNAGHTMLa560840_thumb1_thumb1_thumb6.png)
+![]( wp-content/uploads/2012/01/SNAGHTMLa560840_thumb1_thumb1_thumb6.png)
 
 Não se esquece de adicionar o EntityFramework CodeFirst com o NuGet antes de fazer a engenharia reversa.
 

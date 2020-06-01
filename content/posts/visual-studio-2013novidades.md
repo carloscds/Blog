@@ -26,11 +26,11 @@ Eu criei um projeto bem simples, com Entity Framework 6 acessando o banco de dad
 
 Veja o código abaixo:
 
-![](/wp-content/uploads/2013/10/image8.png)
+![]( wp-content/uploads/2013/10/image8.png)
 
 Agora, com o mouse em cima do método RetornaClientes, pressione **ALT F12**:
 
-![](/wp-content/uploads/2013/10/image12.png)
+![]( wp-content/uploads/2013/10/image12.png)
 
 É muito simples, agora você está vendo o código do método RetornaClientes() na mesma janela que estava trabalhando. E você pode pressionar o ALT F12 dentro desta janela também e ir navegando pelos códigos, sem precisar ficar alternando entre duas ou mais janelas.
 
@@ -42,15 +42,15 @@ O Code Lens pode te ajudar muito nisto. A idéia básica é que para cada classe
 
 Veja no mesmo exemplo, onde temos o Entity Framework referenciando o banco de dados NorthWind, ao abrirmos o código fonte da classe NortwindContext.cs, temos o Code Lens acima dos nomes, veja:
 
-![](/wp-content/uploads/2013/10/image22.png)
+![]( wp-content/uploads/2013/10/image22.png)
 
 Isto quer dizer, por exemplo, que a classe NortwindContext está sendo referenciada 5 vezes. E ao clicar sobre o número:
 
-![](/wp-content/uploads/2013/10/image32.png)
+![]( wp-content/uploads/2013/10/image32.png)
 
 E ao passar o mouse sobre as referências, você consegue ver em que parte do código fonte ele está sendo usado:
 
-![](/wp-content/uploads/2013/10/image42.png)
+![]( wp-content/uploads/2013/10/image42.png)
 
 Sem dúvida um recurso muito útil e que vai deixar o seu dia ainda mais produtivo.
 
@@ -60,15 +60,15 @@ Agora você pode configurar a barra de scroll do seu editor de código para deix
 
 Para ativarmos este recurso, basta clicar com o botão direito do mouse sobre a barra latera e escolher Scroll Bar Options:
 
-![](/wp-content/uploads/2013/10/image51.png)
+![]( wp-content/uploads/2013/10/image51.png)
 
 E depois é só configurar:
 
-![](/wp-content/uploads/2013/10/image61.png)
+![]( wp-content/uploads/2013/10/image61.png)
 
 Ative a opção “Show Preview Tooltip” e depois escolha o tamanho da barra de scroll. Após a configuração você verá uma nova barra de scroll, como esta:
 
-![](/wp-content/uploads/2013/10/image71.png)
+![]( wp-content/uploads/2013/10/image71.png)
 
 Sua barra agora contem um resumo de todo o código fonte do arquivo e ao mover o mouse sobre a barra, você verá uma prévia do código fonte.
 

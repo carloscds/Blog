@@ -24,7 +24,7 @@ Abra este prompt como administrador, vá até o diretório da sua aplicação e 
 
 Após isto você verá uma tela parecida como esta:
 
-![](/wp-content/uploads/2013/11/image1.png)
+![]( wp-content/uploads/2013/11/image1.png)
 
 Valeu pessoal e até a próxima,  
 Carlos dos Santos.

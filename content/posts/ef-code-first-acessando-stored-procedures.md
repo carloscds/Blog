@@ -24,7 +24,7 @@ Em nosso exemplo vamos demonstrar como acessar uma stored procedure do banco de 
 
 Vamos então criar nosso projeto console no Visual Studio 2010 e já adicionar as referências para o EF CodeFirst, caso você não tenha o EF CodeFirst instalado em seu computador, pode baixá-lo [aqui](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=26660).
 
-![](/wp-content/uploads/2011/08/image.png)
+![]( wp-content/uploads/2011/08/image.png)
 
 Para pegar o retorno da stored procedure, vamos criar uma classe que conterá os campos retornados:
 

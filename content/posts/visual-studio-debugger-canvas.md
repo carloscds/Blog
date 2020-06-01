@@ -28,36 +28,36 @@ Agora abra um projeto você está acostumado a fazer debug, no meu caso, vou abr
 
 Primeiro vamos abrir o CartController.cs e colocar um break point no método AddCart()
 
-![](/wp-content/uploads/2011/06/image.png)
-![](/wp-content/uploads/2011/06/image1.png) 
+![]( wp-content/uploads/2011/06/image.png)
+![]( wp-content/uploads/2011/06/image1.png) 
 
 Agora vamos executar o programa pressionando F5. Após a aplicação abrir no browser, clique em “Model Airplanes” e depois em “View Plane”. Em seguida clique em “Add to Cart”.
 
 Neste ponto o código irá parar no local onde fizemos o break point, mas com uma grande diferença no visual:
 
-![](/wp-content/uploads/2011/06/image2.png)
+![]( wp-content/uploads/2011/06/image2.png)
 
 Veja que agora estamos no Debugger Canvas, no codigo do controller. Em cima na barra da janela está a árvore de execução, ou seja, por onde o código passou até chegar aqui e existe também um botão no canto direito da tela que mostrar as variáveis locais para o método:
 
-![](/wp-content/uploads/2011/06/image3.png)
+![]( wp-content/uploads/2011/06/image3.png)
 
 Vamos executar o código pressionando F11 para entrar em algum outro método e logo em seguida temos esta outra janela:
 
-![](/wp-content/uploads/2011/06/image4.png)
+![]( wp-content/uploads/2011/06/image4.png)
 
 Pressionando mais algumas vezes o F11 temos o seguinte:
 
-![](/wp-content/uploads/2011/06/image5.png)
+![]( wp-content/uploads/2011/06/image5.png)
 
 Fazendo um pequeno ajuste visual temos o seguinte:
 
-![](/wp-content/uploads/2011/06/image6.png)
+![]( wp-content/uploads/2011/06/image6.png)
 
 Aqui vemos a linha de execução do programa até onde paramos, ou seja, se continuarmos a execução teremos um mapa visual de todo o fluxo de execução da nossa aplicação, e o que ganhamos com isto ? Facilidade para entender como o código funciona.
 
 Uma última coisa é que quando você instala o Debugger Canvas, ele fica como padrão para o seu debug e caso você queira ativar/desativar, basta abrir o menu Debug/Debugger Canvas/Options and Settings de desmarcar a propriedade abaixo:
 
-![](/wp-content/uploads/2011/06/image7.png)
+![]( wp-content/uploads/2011/06/image7.png)
 
 Espero que vocês tenham gostado do potencial deste novo recurso para o Visual Studio e isto mostra mais uma vez que a ferramenta está evoluindo e tem muito mais a evoluir.
 

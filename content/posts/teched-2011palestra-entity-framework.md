@@ -19,18 +19,18 @@ Espero que o evento tenha sido excelente para todos, não só pelo conteúdo té
 
 Vejam as fotos da minha palestra:
 
-![](/wp-content/uploads/2011/10/IMG_6017.jpg)
-![](/wp-content/uploads/2011/10/IMG_6021.jpg)
-![](/wp-content/uploads/2011/10/IMG_6023.jpg)
-![](/wp-content/uploads/2011/10/IMG_6024.jpg)
-![](/wp-content/uploads/2011/10/IMG_6027.jpg)
-![](/wp-content/uploads/2011/10/IMG_6031.jpg)
-![](/wp-content/uploads/2011/10/IMG_6033.jpg)
-![](/wp-content/uploads/2011/10/IMG_6038.jpg)
-![](/wp-content/uploads/2011/10/IMG_6048.jpg)
-![](/wp-content/uploads/2011/10/IMG_6052.jpg)
-![](/wp-content/uploads/2011/10/IMG_6044.jpg)
-![](/wp-content/uploads/2011/10/IMG_6049.jpg)
+![]( wp-content/uploads/2011/10/IMG_6017.jpg)
+![]( wp-content/uploads/2011/10/IMG_6021.jpg)
+![]( wp-content/uploads/2011/10/IMG_6023.jpg)
+![]( wp-content/uploads/2011/10/IMG_6024.jpg)
+![]( wp-content/uploads/2011/10/IMG_6027.jpg)
+![]( wp-content/uploads/2011/10/IMG_6031.jpg)
+![]( wp-content/uploads/2011/10/IMG_6033.jpg)
+![]( wp-content/uploads/2011/10/IMG_6038.jpg)
+![]( wp-content/uploads/2011/10/IMG_6048.jpg)
+![]( wp-content/uploads/2011/10/IMG_6052.jpg)
+![]( wp-content/uploads/2011/10/IMG_6044.jpg)
+![]( wp-content/uploads/2011/10/IMG_6049.jpg)
 
 Abraços,  
 Carlos dos Santos.

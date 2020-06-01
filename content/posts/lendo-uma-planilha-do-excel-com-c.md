@@ -21,13 +21,13 @@ Para começar, vamos mostrar como está a nossa planilha no Excel e quais as inf
 
 Nossa planilha tem estes dados:
 
-![](/wp-content/uploads/image_10.png)
+![]( wp-content/uploads/image_10.png)
 
 Vejam que a planilha tem os títulos das colunas na primeira linha. Estes serão os nomes dos campos para o nosso comando Select, e também o nome da planilha, que é Sheet1, será o nome da nossa tabela.
 
 Agora vamos criar um projeto do tipo Console no Visual Studio:
 
-![](/wp-content/uploads/image_11.png)
+![]( wp-content/uploads/image_11.png)
 
 Obs: no meu exemplo estou usando o Visual Studio 2010, mas vocês podem usar o Visual Studio 2008 com .Net Framework 2.0 sem problemas.
 

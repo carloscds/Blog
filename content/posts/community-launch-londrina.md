@@ -19,11 +19,11 @@ Gostaria de agradecer novamente o Prof. Rosmar do Senai, por apoiar nosso evento
 
 Vejam as fotos:
 
-![](/wp-content/uploads/DSC04638.jpg) 
-![](/wp-content/uploads/DSC04643.jpg) 
-![](/wp-content/uploads/DSC04648.jpg) 
-![](/wp-content/uploads/DSC04654.jpg) 
-![](/wp-content/uploads/DSC04656.jpg)
+![]( wp-content/uploads/DSC04638.jpg) 
+![]( wp-content/uploads/DSC04643.jpg) 
+![]( wp-content/uploads/DSC04648.jpg) 
+![]( wp-content/uploads/DSC04654.jpg) 
+![]( wp-content/uploads/DSC04656.jpg)
 
 []s,
 

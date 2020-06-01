@@ -19,7 +19,7 @@ Agora, no Visual Studio 2010, o help é totalmente gerenciado via browser, ou se
 
 Olhem como ficou:
 
-![](/wp-content/uploads/image_5.png)
+![]( wp-content/uploads/image_5.png)
 
 Eu chamei esta janela de help, pressionando o F1 em cima do nome Form, da classe do formulário.
 

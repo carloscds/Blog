@@ -20,12 +20,12 @@ Agradecemos a PUC oportunidade e esperamos estar em breve realizando novos event
 
 Vejam as fotos:
 
-![](/wp-content/uploads/DSC02453.jpg)   
+![]( wp-content/uploads/DSC02453.jpg)   
 Finalmente o André fez um PPT com os dados dele. rsrsrs  
-![](/wp-content/uploads/DSC02458.jpg) 
-![](/wp-content/uploads/DSC02470.jpg)
-![](/wp-content/uploads/DSC02480.jpg)
-![](/wp-content/uploads/DSC02483.jpg)    
+![]( wp-content/uploads/DSC02458.jpg) 
+![]( wp-content/uploads/DSC02470.jpg)
+![]( wp-content/uploads/DSC02480.jpg)
+![]( wp-content/uploads/DSC02483.jpg)    
 
 Olha como cara tá gordo!!!
 

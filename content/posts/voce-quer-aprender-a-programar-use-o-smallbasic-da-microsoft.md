@@ -15,21 +15,21 @@ Para você que está querendo começar a programar, a Microsoft tem uma ferramen
 
 O Small Basic não é uma ferramenta nova, ela já existe há mais de um ano, mas a grande novidade é que agora o ambiente está totalmente em português, vejam:
 
-![](/wp-content/uploads/image_15.png)
+![]( wp-content/uploads/image_15.png)
 
 Um a coisa muito interessante no Small Basic é o intelisence, muito rico em informações:
 
-![](/wp-content/uploads/image_16.png)
+![]( wp-content/uploads/image_16.png)
 
 Agora vejam como é simples escrever um programa no Small Basic:
 
-![](/wp-content/uploads/image_17.png)
+![]( wp-content/uploads/image_17.png)
 
 Vejam como é simples, TextWindow trabalha no modo texto e GraphicsWindow no modo gráfico, e olhem também que você simplesmente escrever que “variável” é igual a alguma coisa.
 
 Outra coisa muito legal do Small Basic é a [linguagem LOGO](http://pt.wikipedia.org/wiki/Logo), muito interessante para crianças, vejam o exemplo:
 
-![](/wp-content/uploads/image_18.png)
+![]( wp-content/uploads/image_18.png)
 
 Este código faz a tartaruga desenhar um quadrado na tela.
 

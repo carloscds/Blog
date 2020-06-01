@@ -17,11 +17,11 @@ Primeiro você precisa baixar o utilitário clicando [aqui](http://www.skydrivee
 
 Depois de baixar, execute o utilitário e coloque seu usuário e senha do SkyDrive:
 
-![](/wp-content/uploads/image_8.png)
+![]( wp-content/uploads/image_8.png)
 
 Após isto ele já vai aparecer no seu Windows Explorer:
 
-![](/wp-content/uploads/image_9.png)
+![]( wp-content/uploads/image_9.png)
 
 Agora, clicando no ícone, o SkyDrive será aberto como um drive no seu computador, mostrando os arquivos e pastas. Assim, é só copiar e gravar seus arquivos para ele.
 

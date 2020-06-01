@@ -14,7 +14,7 @@ Pessoal,
 
 Acabei de passar em mais uma prova beta do .Net 4.0 – Windows Developer 4. Lembrando que estas provas beta são lançadas gratuitamente antes do lançamento oficial do produto e servem para avaliar o conteúdo da prova, pois eles sempre têm mais questões que o normal, cerca de 80 questões cada prova, mas elas valem como certificação oficial, caso você passe.
 
-![](/wp-content/uploads/2010/06/cer1.png)
+![]( wp-content/uploads/2010/06/cer1.png)
 
 Abraços,  
 Carlos dos Santos.

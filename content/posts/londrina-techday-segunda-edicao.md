@@ -15,12 +15,12 @@ Segunda-feira dia 05 apresentei no Londrina TechDay na Unifil em Londrina as nov
 
 Em breve teremos mais, principalmente com o lançamento do Windows 7, fiquem atentos.
 
-![](/wp-content/uploads/DSC02237.jpg) 
-![](/wp-content/uploads/DSC02239.jpg) 
-![](/wp-content/uploads/DSC02268.jpg) 
-![](/wp-content/uploads/DSC02277.jpg) 
-![](/wp-content/uploads/DSC02279.jpg) 
-![](/wp-content/uploads/DSC02280.jpg)
-![](/wp-content/uploads/DSC02285.jpg)
+![]( wp-content/uploads/DSC02237.jpg) 
+![]( wp-content/uploads/DSC02239.jpg) 
+![]( wp-content/uploads/DSC02268.jpg) 
+![]( wp-content/uploads/DSC02277.jpg) 
+![]( wp-content/uploads/DSC02279.jpg) 
+![]( wp-content/uploads/DSC02280.jpg)
+![]( wp-content/uploads/DSC02285.jpg)
 
 []s,

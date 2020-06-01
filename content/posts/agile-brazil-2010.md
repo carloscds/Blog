@@ -19,21 +19,21 @@ Foi interessante também assistir ao jogo da seleção brasileira durante o even
 
 Para quem não foi, eu definitivamente recomendo que vá no próximo ano, onde teremos o keynote de abertura com Ken Schwaber, fundador da Scrum.org.
 
-![](/wp-content/uploads/2010/06/foto1.jpg)  
+![]( wp-content/uploads/2010/06/foto1.jpg)  
 Martin Fowler no keynote de abertura.
 
-![](/wp-content/uploads/2010/06/foto2.jpg)  
+![]( wp-content/uploads/2010/06/foto2.jpg)  
 Eu e o André Nobre.
 
-![](/wp-content/uploads/2010/06/foto3.jpg)  
+![]( wp-content/uploads/2010/06/foto3.jpg)  
 Philippe Kruchten no keynote da sexta-feira
 
-![](/wp-content/uploads/2010/06/foto4.jpg)  
+![]( wp-content/uploads/2010/06/foto4.jpg)  
 Jogo da Seleção Brasileira  
-![](/wp-content/uploads/2010/06/foto5.jpg)
-![](/wp-content/uploads/2010/06/foto6.jpg)  
+![]( wp-content/uploads/2010/06/foto5.jpg)
+![]( wp-content/uploads/2010/06/foto6.jpg)  
 Movimentação durante o evento.      [  
-![](/wp-content/uploads/2010/06/foto7.jpg)  
+![]( wp-content/uploads/2010/06/foto7.jpg)  
 Fechamento do evento.
 
 Abraços,  

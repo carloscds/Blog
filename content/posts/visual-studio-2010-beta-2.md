@@ -16,7 +16,7 @@ Acabei de instalar o novo beta do Visual Studio 2010. O que mais me impressiona 
 
 Olha como ficou a home:
 
-![](/wp-content/uploads/image_4.png)
+![]( wp-content/uploads/image_4.png)
 
 Agora vou trabalhar um pouco mais nele e já já publico mais novidades!
 

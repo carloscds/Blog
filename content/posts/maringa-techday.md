@@ -20,27 +20,27 @@ Gostaria de agradecer ao Cesumar e ao Clodoaldo Assis pela organização do even
 
 Vejam as fotos:
 
-[](/wp-content/uploads/DSC04688.jpg) 
+[]( wp-content/uploads/DSC04688.jpg) 
 
-[](/wp-content/uploads/DSC04689.jpg)  
+[]( wp-content/uploads/DSC04689.jpg)  
 
 Eu não poderia deixar de mostrar esta foto, o André não colocou o nome no PPT e abriu o Notepad para escrever. Foi muito engraçado. Mas a palestra dele foi excelente!!!  
-[](/wp-content/uploads/DSC04690.jpg)
+[]( wp-content/uploads/DSC04690.jpg)
 
-[](/wp-content/uploads/DSC04693.jpg)   
+[]( wp-content/uploads/DSC04693.jpg)   
 Tivemos um público muito bom no evento.
 
-[](/wp-content/uploads/DSC04694.jpg)
-[](/wp-content/uploads/DSC04696.jpg)
-[](/wp-content/uploads/DSC04700.jpg) 
-[](/wp-content/uploads/DSC04704.jpg)
-[](/wp-content/uploads/DSC04707.jpg) 
-[](/wp-content/uploads/DSC04709.jpg)
+[]( wp-content/uploads/DSC04694.jpg)
+[]( wp-content/uploads/DSC04696.jpg)
+[]( wp-content/uploads/DSC04700.jpg) 
+[]( wp-content/uploads/DSC04704.jpg)
+[]( wp-content/uploads/DSC04707.jpg) 
+[]( wp-content/uploads/DSC04709.jpg)
 
-![](/wp-content/uploads/DSC04712.jpg)  
+![]( wp-content/uploads/DSC04712.jpg)  
 Aqui temos os ganhadores dos brindes, 3 voucher de certificação e uma licença do Windows 7
 
-![](/wp-content/uploads/DSC04716.jpg)   
+![]( wp-content/uploads/DSC04716.jpg)   
 Aqui os organizadores do evento e os palestrantes.
 
 Aqui está o PPT que foi usado no evento:

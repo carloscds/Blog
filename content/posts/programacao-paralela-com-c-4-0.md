@@ -66,9 +66,9 @@ Imagine um laço com iterações bem pesadas, como diversos cálculos, você con
 
 Outro recurso interessantíssimo da programação paralela, são as janelas de Stacks e Tasks do Debug (Debug/Windows):
 
-![](/wp-content/uploads/image_thumb_6.png)
+![]( wp-content/uploads/image_thumb_6.png)
 
-![](/wp-content/uploads/image_thumb_7.png)
+![]( wp-content/uploads/image_thumb_7.png)
 
 Com estas janelas você pode controlar toda a execução do código paralelo, como ver o que está em execução e o que está na fila para ser executado, entre outras coisas.
 

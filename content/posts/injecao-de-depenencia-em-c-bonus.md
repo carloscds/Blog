@@ -14,7 +14,7 @@ No último artigo desta série, vou mostrar duas coisas bem simples: primeiro co
 
 Mas porque você não iria injetar a dependência no construtor, como eu mostrei nos artigos anteriores? Bom, as vezes é necessário usarmos mecanismo alternativos para simplificar o desenvolvimento e termos acesso aos objetos!!!
 
-### EntityFramework Core
+#### EntityFramework Core
 
 Durante muitos anos eu escrevi sobre EF, mas como houve um atraso muito grande no desenvolvimento do EF Core, eu acabei utilizando outros ORMs em projetos. Mas agora o EF Core está bem interessante e voltei a utilizá-lo em um projeto bem grande!
 
@@ -28,7 +28,7 @@ Este recurso é muito valioso para testes unitários, e eu espero realmente que 
 
 _Para este exemplo vamos criar um projeto ASP.NET Core WebAPI._ 
 
-### Criando o Contexto do EF Core
+#### Criando o Contexto do EF Core
 
 A primeira coisa que faremos será criar uma classe (tabela) e o contexto do Entity. Teremos uma classe simples de _Cliente_:<figure class="wp-block-embed">
 
@@ -93,13 +93,13 @@ namespace InjecaoDependenciaDiretaEF.Data
 
     }
 }
-```` 
+``` 
 
 Nosso contexto não tem nada demais, a não ser um método SeedData() que estou usando para preencher a classe _Cliente_ em memória.
 
 Lembre-se que estou usando um banco em memória, então para ter dados, preciso preencher este banco quando inicializo o contexto!
 
-### Configurando o Startup.cs
+#### Configurando o Startup.cs
 
 Agora vamos configurar os serviços na classe Startup:
 
@@ -180,7 +180,7 @@ namespace InjecaoDependenciaDiretaEF.Services
 
 Esta classe apenas "simula" o envio de um email, imagino que você irá implementar uma classe real para isto!
 
-### Trabalhando a injecão na Controller
+#### Trabalhando a injecão na Controller
 
 Agora que temos o nosso ambiente montado, vamos a criar uma controller para trabalhar estes dados. Iremos criar a _ClienteController.cs_ que terá duas actions: _Get()_ para trazer todos os clientes e _Email()_ para "simular" o envio de email.
 
@@ -242,9 +242,11 @@ Muito bem, temos muitas coisas acontecendo aqui e vamos explicá-las:
 
 No construtor da Controller estamos recebendo alguns objetos por injeção:
 
+***
 _ILogger logger_; //log do ASP.NET Core  
 _AplicacaoContext db_ = nosso contexto do Entity Framework  
 _IHttpContextAccessor_ httpContextAccessor = HttpContext da aplicação
+***
 
 Todos estão atribuídos a variáveis dentro da controller. Então vamos aos métodos que nos interessam.
 
@@ -252,7 +254,7 @@ O método _Get()_ simplesmente retorna todos os clientes do banco, que no nosso 
 
 O outro método, _Email()_, é o que vamos mostrar a "invocação" de uma dependência sem o contrutor.
 
-### Entendendo o cenário
+#### Entendendo o cenário
 
 Isto é mais comum do que você pensa! Neste nosso projeto, precisamos enviar um email e a classe email está na injeção de dependência (configuramos no Startup.cs), mas não colocamos no construtor da controller pois é um método pouco usado e não justifica neste caso, hipoteticamente! Ou ela simplesmente está "injetada dentro de uma outra classe, o que é mais comum ainda! De qualaquer maneira, não temos esta classe diretamente disponível.
 
@@ -271,15 +273,15 @@ Isto é muito legal, pois você está "injetando" um objeto na mão, ou seja, es
 
 E agora é só usar o email!
 
-Executando a aplicação teremos o seguinte resultado:<figure class="wp-block-image">
+Executando a aplicação teremos o seguinte resultado: 
 
-![](/wp-content/uploads/2020/02/image-6.png)
+![]( wp-content/uploads/2020/02/image-6.png)
 
-Agora chamando o email:<figure class="wp-block-image">
+Agora chamando o email: 
 
-![](/wp-content/uploads/2020/02/image-7.png)
+![]( wp-content/uploads/2020/02/image-7.png)
 
-### Conclusão
+#### Conclusão
 
 O mecanismo de injeção de dependência nos permite simplificar muito o desenvolvimento! Mas use com cuidado, pois tudo em excesso é prejudicial!
 

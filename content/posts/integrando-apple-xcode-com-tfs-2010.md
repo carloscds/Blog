@@ -25,11 +25,11 @@ Basicamente o SVNBridge cria uma ponte entre o client do Subversion (SVN) e o Te
 
 Veja a tela no MAC OS:
 
-![](/wp-content/uploads/2010/12/Screen-shot-2010-12-29-at-5.04.14-PM.png)
+![]( wp-content/uploads/2010/12/Screen-shot-2010-12-29-at-5.04.14-PM.png)
 
 Veja a tela no Windows:
 
-![](/wp-content/uploads/2010/12/image.png)
+![]( wp-content/uploads/2010/12/image.png)
 
 Esta integração foi feita com a empresa [ViewT](http://www.viewt.com.br) que é especializada no desenvolvimento de softwares para IPhone e IPad.
 

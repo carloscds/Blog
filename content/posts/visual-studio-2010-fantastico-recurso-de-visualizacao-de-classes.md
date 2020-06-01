@@ -24,15 +24,15 @@ Eu estava vendo um [post](http://www.lovettsoftware.com/blogengine.net) sobre um
 
 Para ver isto no seu projeto, no Visual Studio 2010 Ultimate, abra o menu Architecture/Generate Dependency Graph:
 
-![](/wp-content/uploads/image_12.png)
+![]( wp-content/uploads/image_12.png)
 
 Você pode gerar o gráfico de várias maneiras, mas no meu exemplo, escolhi By Class:
 
-![](/wp-content/uploads/image_13.png)
+![]( wp-content/uploads/image_13.png)
 
 Agora você clica em alguma classe:
 
-![](/wp-content/uploads/image_14.png)
+![]( wp-content/uploads/image_14.png)
 
 E vai vendo os métodos e as dependências. Realmente muito útil.
 

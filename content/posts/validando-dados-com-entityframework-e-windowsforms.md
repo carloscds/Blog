@@ -16,7 +16,7 @@ Hoje vou mostrar uma maneira bem simples e interessante de fazer validação de 
 Como eu já comentei em outros posts, quando você utiliza DataAnnotations em classes POCO na sua camada de dados e faz a camada de apresentação com WPF/Silverlight ou MVC, o tratamento dos campos é feito automaticamente, praticamente sem nenhum tipo de código. Mas e se você ainda programa para WindowsForms ou precisa validar os dados da classe em uma camada e retornar o erro para outra camada, como fazer ? Isto é o que veremos a seguir.
 
 Primeiro vamos criar um projeto Windows Forms no Visual Studio 2010:  
-![](http://carloscds.net/wp-content/uploads/2012/01/image14.png)
+![](http://carloscds.net wp-content/uploads/2012/01/image14.png)
 
 Agora vamos adicionoar o EntityFramework CodeFirst usando o NuGet, como eu expliquei [neste post](http://carloscds.net/2012/01/entityframework-codefirst). E logo após vamos criar uma classes chamada Produto e vamos adicionar os [annotations](http://msdn.microsoft.com/en-us/data/gg193958) nela. Annotations são marcações acima dos campos que definem várias informações ao engine do Entitu Framework, como por exemplo, os valores permitidos no campo.
 
@@ -137,25 +137,25 @@ namespace WindowsFormsValidacao
 
 Agora vamos adicionar os campos em nosso formulário, que ficará desta forma:
 
-![](/wp-content/uploads/2012/01/image_thumb17.png)
+![]( wp-content/uploads/2012/01/image_thumb17.png)
 
 O TextBox (txtErros) abaixo do botão Salvar é onde iremos mostrar os erros.
 
 Vamos adicionar um DataSource para podermos trabalhar com nossa classe Produto, para isto vá no menu Data/Add New DataSource e escolha Object:
   
-![](/wp-content/uploads/2012/01/image_thumb18.png)
+![]( wp-content/uploads/2012/01/image_thumb18.png)
 
 Depois escolha a classe produto:
   
-![](/wp-content/uploads/2012/01/image_thumb19.png)
+![]( wp-content/uploads/2012/01/image_thumb19.png)
 
 Agora você precisa ligar todos os campos TextBox do formulário aos campos da classe. Para fazer isto, clique sobre o TextBox, vá em propriedades/DataBindings/Text e escolha o campo correspondente ao controle. Faça isto para todos os controles:
 
-![](/wp-content/uploads/2012/01/image_thumb20.png)
+![]( wp-content/uploads/2012/01/image_thumb20.png)
 
 Após o primeiro campo, escolha os campos sempre a partir do bindingsource: 
 
-![](/wp-content/uploads/2012/01/image_thumb21.png)
+![]( wp-content/uploads/2012/01/image_thumb21.png)
 
 Agora vamos ao código do botão incluir, que simplesmente adiciona um novo objeto Produto vinculado a tela:
 

@@ -25,24 +25,24 @@ Bom, vamos lá:
 
 1. Acesse o site do [AppHub](http://create.msdn.com/en-US) com um Live ID (pode ser do seu MSN);
 
-![](/wp-content/uploads/2011/03/image.png)  
+![]( wp-content/uploads/2011/03/image.png)  
 **<font size="1">Neste site você também pode baixar as ferramentas de desenvolvimento.</font>**
 
 2. Agora você precisa escolher o tipo da conta (empresa, individual ou estudante):
 
-![](/wp-content/uploads/2011/03/image1.png)
+![]( wp-content/uploads/2011/03/image1.png)
 
 3. Agora você precisa preencher seu dados:
 
-![](/wp-content/uploads/2011/03/image2.png)
+![]( wp-content/uploads/2011/03/image2.png)
 
 4. Feito isto, agora você escolhe um desenho para sua conta:
 
-![](/wp-content/uploads/2011/03/image3.png)
+![]( wp-content/uploads/2011/03/image3.png)
 
 4. Agora você faz o pagamento, que precisa de um cartão internacional, o valor é de US 99 mais taxas, o que hoje está ficando em R$ 175,00:
 
-![](/wp-content/uploads/2011/03/image4.png)
+![]( wp-content/uploads/2011/03/image4.png)
 
 5. Feito isto você está cadastrado, mas precisa aguardar um email da GeoTrust para confirmar sua identidade, ou seja, eles precisam saber se você é você mesmo (rsrs). Isto se faz respondendo um email com seus dados e uma copia digitalizada de algum documento seu;
 
@@ -50,7 +50,7 @@ Bom, vamos lá:
 
 Para finalizar, na sessão de downloads do site você encontra todas as ferramentas necessárias para começar o desenvolvimento:
 
-![](/wp-content/uploads/2011/03/image5.png)
+![]( wp-content/uploads/2011/03/image5.png)
 
 É isto aí, agora é só criar uma aplicação legal e publicar no MaketPlace. Lembre-se que as aplicações precisam seguir um padrão, então leia o guia de desenvolvimento que está na sessão Getting Start do site.
 

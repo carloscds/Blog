@@ -18,12 +18,12 @@ hoje fizemos uma palestra no Cesumar em Maringá. O Vladimir Rech mandou muito b
 
 Vejam as fotos:
 
-![](/wp-content/uploads/2011/05/WP_000077.jpg)
-![](/wp-content/uploads/2011/05/WP_000078.jpg)
-![](/wp-content/uploads/2011/05/WP_000079.jpg)
-![](/wp-content/uploads/2011/05/WP_000080.jpg)
-![](/wp-content/uploads/2011/05/WP_000081.jpg)
-![](/wp-content/uploads/2011/05/WP_000082.jpg)
+![]( wp-content/uploads/2011/05/WP_000077.jpg)
+![]( wp-content/uploads/2011/05/WP_000078.jpg)
+![]( wp-content/uploads/2011/05/WP_000079.jpg)
+![]( wp-content/uploads/2011/05/WP_000080.jpg)
+![]( wp-content/uploads/2011/05/WP_000081.jpg)
+![]( wp-content/uploads/2011/05/WP_000082.jpg)
 
 []s,  
 Carlos.

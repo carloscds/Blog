@@ -19,24 +19,24 @@ Você pode baixar o [CTP para Desenvolvimento](http://silverlight.net/getstarted
 
 Quanto você baixa e instala o CTP, ele adiciona um novo template para desenvolvimento quando você cria um novo projeto:
 
-[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net/wp-content/uploads/image_thumb_19.png" border="0" alt="image" width="497" height="214" />](http://carloscds.net/wp-content/uploads/image_19.png)   
+[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net wp-content/uploads/image_thumb_19.png" border="0" alt="image" width="497" height="214" />](http://carloscds.net wp-content/uploads/image_19.png)   
 Observação: inicialmente o template só está disponível para a linguagem C#.
 
 Para este exemplo, iremos escolher Windows Phone Application e vamos manter o nome padrão da solução. Feito isto teremos a tela do designer da aplicação:
 
-[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net/wp-content/uploads/image_thumb_20.png" border="0" alt="image" width="653" height="299" />](http://carloscds.net/wp-content/uploads/image_20.png)
+[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net wp-content/uploads/image_thumb_20.png" border="0" alt="image" width="653" height="299" />](http://carloscds.net wp-content/uploads/image_20.png)
 
 A partir daí o desenvolvimento é todo em Silverlight, como você pode ver, ao lado direito da tela está o código XAML. Vamos colocar somente um botão e um label e executar nossa aplicação:
 
-[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net/wp-content/uploads/image_thumb_21.png" border="0" alt="image" width="197" height="244" />](http://carloscds.net/wp-content/uploads/image_21.png)
+[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net wp-content/uploads/image_thumb_21.png" border="0" alt="image" width="197" height="244" />](http://carloscds.net wp-content/uploads/image_21.png)
 
 Agora, clicando no botão, você verá o código C# para o evento:
 
-[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net/wp-content/uploads/image_thumb_22.png" border="0" alt="image" width="523" height="313" />](http://carloscds.net/wp-content/uploads/image_22.png)
+[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net wp-content/uploads/image_thumb_22.png" border="0" alt="image" width="523" height="313" />](http://carloscds.net wp-content/uploads/image_22.png)
 
 Executando a aplicação (F5), o emulador é aberto e você pode testá-la:
 
-[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net/wp-content/uploads/image_thumb_23.png" border="0" alt="image" width="223" height="362" />](http://carloscds.net/wp-content/uploads/image_23.png) 
+[<img style="display: inline; border-width: 0px;" title="image" src="http://carloscds.net wp-content/uploads/image_thumb_23.png" border="0" alt="image" width="223" height="362" />](http://carloscds.net wp-content/uploads/image_23.png) 
 
 O emulador ainda é bastante simples, se comparado ao emulador do Windows Mobile, mas para você testar as suas primeira aplicações  e ir se familiarizando com o novo ambiente está muito bom.
 

@@ -15,9 +15,9 @@ Nos dias 14 e 15 de setembro eu ministrei um curso básico de C# para os alunos 
 
 Neste treinamento os alunos tiveram a oportunidade de conhecer a plataforma Microsoft.Net e o Visual Studio 2010, num total de 8 horas de curso.
 
-![](/wp-content/uploads/2011/10/DSC01678.jpg)
-![](/wp-content/uploads/2011/10/DSC01679.jpg)
-![](/wp-content/uploads/2011/10/DSC01680.jpg)
+![]( wp-content/uploads/2011/10/DSC01678.jpg)
+![]( wp-content/uploads/2011/10/DSC01679.jpg)
+![]( wp-content/uploads/2011/10/DSC01680.jpg)
 
 Abraços,  
 Carlos.

@@ -26,7 +26,7 @@ No caso do nosso exemplo, vamos executar um método para cada operação em LINQ
 
 Criando um novo projeto do tipo Console Application:
 
-![](/wp-content/uploads/2013/09/SNAGHTML476eb6022.png)
+![]( wp-content/uploads/2013/09/SNAGHTML476eb6022.png)
 
 Criado o nosso projeto, vamos adicionar o Entity Framework através da janela do  Nuget, que está em Tools/Library Packager Manager/Packager Manger Console e dentro dele iremos executar o comando abaixo:
 
@@ -95,7 +95,7 @@ O método GravaLog() é atrbuído a propriedade Log do DataBase do Contexto, sen
 
 Ao executar o programa, você verá algo como a imagem abaixo:
 
-![](/wp-content/uploads/2013/09/SNAGHTML47817c48_thumb2.png)
+![]( wp-content/uploads/2013/09/SNAGHTML47817c48_thumb2.png)
 
 Esta é uma implementação bastante simples da implementação do Log de comandos disponível agora na versão 6, mas com certeza você poderá utilizar de uma maneira bem mais elaborada em seus projetos.
 

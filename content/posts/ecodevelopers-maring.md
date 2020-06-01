@@ -23,11 +23,11 @@ Gostaria de agradecer ao professor Freud e também ao Clodoaldo pelo convite e t
 
 Confiram as fotos:
 
-![](/wp-content/uploads/2010/10/foto1.jpg)
-![](/wp-content/uploads/2010/10/foto2.jpg)
+![]( wp-content/uploads/2010/10/foto1.jpg)
+![]( wp-content/uploads/2010/10/foto2.jpg)
 
-![](/wp-content/uploads/2010/10/foto3.jpg)
-![](/wp-content/uploads/2010/10/foto4.jpg)
+![]( wp-content/uploads/2010/10/foto3.jpg)
+![]( wp-content/uploads/2010/10/foto4.jpg)
 
 [Download PPT](http://www.slideshare.net/carloscds/virtualizao-com-hyperv)
 

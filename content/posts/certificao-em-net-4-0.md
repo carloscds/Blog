@@ -19,7 +19,7 @@ Eu passei na prova beta do .Net 4.0 – Windows Application. Estas provas beta s
 
 No meu caso, eu fiz 3 provas do .Net 4.0 e recebi o resultado da primeira delas. Fiquem atentos pois estas provas são abertas a qualquer pessoa.
 
-![](/wp-content/uploads/2010/06/net4.png)
+![]( wp-content/uploads/2010/06/net4.png)
 
 Abraços,  
 Carlos dos Santos.

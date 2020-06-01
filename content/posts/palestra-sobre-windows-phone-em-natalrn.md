@@ -22,9 +22,9 @@ Gostaria de agradecer ao Glebe e ao Fernando, que me recepcionaram de maneira ex
 
 Vejam as Fotos:
 
-![](/wp-content/uploads/2011/11/foto1.jpg)
-![](/wp-content/uploads/2011/11/foto2.jpg)
-![](/wp-content/uploads/2011/11/foto3.jpg)
+![]( wp-content/uploads/2011/11/foto1.jpg)
+![]( wp-content/uploads/2011/11/foto2.jpg)
+![]( wp-content/uploads/2011/11/foto3.jpg)
 
 []s,  
 Carlos.

@@ -51,6 +51,7 @@
     <link rel="stylesheet" href="{{ $css.Permalink }}">
     {{ with .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ . | absURL }}" async>{{ end }}
+    <base href="{{ .Site.BaseURL }}">
     <link rel="stylesheet" href="https://cdn.staticfile.org/highlight.js/9.15.10/styles/github.min.css" async>
     {{- if eq .Site.Params.comment.type "gitalk"}} 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" async>    

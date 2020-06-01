@@ -16,7 +16,7 @@ tags:
 
 Uma tarefa relativamente simples, mas que pode causar um certo transtorno justamente por ser uma thread. Veja a aplicação abaixo em Windows Forms:
 
-![](/wp-content/uploads/2010/08/image.png)
+![]( wp-content/uploads/2010/08/image.png)
 
 É uma tela bem simples, com um botão e uma barra de progresso. Agora vamos imaginar que este form tenha o código abaixo, que cria uma thread que atualiza a progressBar1:
 
@@ -60,7 +60,7 @@ public partial class Form1 : Form
 ```
 O código acima está correto, mas ao executar e clicar no botão iniciar, aparece o seguinte erro:
 
-![](/wp-content/uploads/2010/08/image_thumb1.png)
+![]( wp-content/uploads/2010/08/image_thumb1.png)
 
 O erro acontece porquê a janela da aplicacação (UI) está executando em uma thread e agora nós temos outra thread executando o nosso processo e tentando atualizar a tela. Então como resolver isto ?
 

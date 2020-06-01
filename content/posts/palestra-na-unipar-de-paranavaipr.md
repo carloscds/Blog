@@ -22,22 +22,22 @@ Agradecemos também a direção da Unipar pelo espaço e pela colaboração na d
 
 Vejam as fotos:
 
-![](/wp-content/uploads/DSC04855.jpg)  
+![]( wp-content/uploads/DSC04855.jpg)  
 Momentos antes da palestra.
 
-![](/wp-content/uploads/DSC04873.jpg)  
+![]( wp-content/uploads/DSC04873.jpg)  
 
 Palestra sobre as novidades do Visual Studio 2010.  
-![](/wp-content/uploads/DSC04875.jpg) 
-![](/wp-content/uploads/DSC04877.jpg) 
-![](/wp-content/uploads/DSC04883.jpg)
+![]( wp-content/uploads/DSC04875.jpg) 
+![]( wp-content/uploads/DSC04877.jpg) 
+![]( wp-content/uploads/DSC04883.jpg)
 
 Tivemos um auditório lotado, muito bom mesmo!!!  
 
-![](/wp-content/uploads/DSC04885.jpg) 
-![](/wp-content/uploads/DSC04899.jpg)  
+![]( wp-content/uploads/DSC04885.jpg) 
+![]( wp-content/uploads/DSC04899.jpg)  
 Márcio falando sobre Silverlight 4.  
-![](/wp-content/uploads/DSC04905.jpg)
+![]( wp-content/uploads/DSC04905.jpg)
 
 []s,  
 Carlos dos Santos.

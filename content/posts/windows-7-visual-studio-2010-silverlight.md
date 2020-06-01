@@ -21,11 +21,11 @@ Procuramos mostrar um overview de todas as tecnologias, onde ficamos cerca de 3 
 
 Confiram as fotos:
 
-![](/wp-content/uploads/DSC01636.jpg) 
-![](/wp-content/uploads/DSC01640.jpg) 
-![](/wp-content/uploads/DSC01642.jpg) 
-![](/wp-content/uploads/DSC01643.jpg) 
-![](/wp-content/uploads/DSC01645.jpg) 
-![](/wp-content/uploads/DSC01647.jpg)
+![]( wp-content/uploads/DSC01636.jpg) 
+![]( wp-content/uploads/DSC01640.jpg) 
+![]( wp-content/uploads/DSC01642.jpg) 
+![]( wp-content/uploads/DSC01643.jpg) 
+![]( wp-content/uploads/DSC01645.jpg) 
+![]( wp-content/uploads/DSC01647.jpg)
 
 []s,

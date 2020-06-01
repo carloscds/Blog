@@ -14,10 +14,10 @@ Aconteceu ontem, dia 16/09 na UEL (Universidade Estadual de Londrina) o evento d
 
 Vejam as fotos:
 
-![](/wp-content/uploads/DSC01486.jpg)
-![](/wp-content/uploads/DSC01487.jpg)
-![](/wp-content/uploads/DSC01499.jpg)
-![](/wp-content/uploads/DSC01508.jpg)
+![]( wp-content/uploads/DSC01486.jpg)
+![]( wp-content/uploads/DSC01487.jpg)
+![]( wp-content/uploads/DSC01499.jpg)
+![]( wp-content/uploads/DSC01508.jpg)
 
 []s,
 

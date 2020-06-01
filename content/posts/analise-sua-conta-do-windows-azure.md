@@ -22,7 +22,7 @@ Para resolver isto, eu criei uma ferramenta que permite transformar este arquivo
 
 Para analisar a sua conta a primeira coisa a fazer é baixar o arquivo no site [account.windowsazure.com](http://account.windowsazure.com), na opção Conta/Baixar Detalhes do Uso. Depois disto abra o programa Windows Azure Usage a aponte para o seu arquivo. Veja a tela principal da ferramenta:
 
-![](/wp-content/uploads/2013/07/SNAGHTMLd76deed2.png)
+![]( wp-content/uploads/2013/07/SNAGHTMLd76deed2.png)
 
 Se você tiver alguma idéia ou sugestão, me envie, pois ainda vou acrescentar alguns recursos na ferramenta.
 

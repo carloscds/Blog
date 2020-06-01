@@ -19,10 +19,10 @@ Gostaria de agradecer ao convite do Prof.Zanete e espero voltar mais vezes para 
 
 Vejam as fotos:
 
-![](/wp-content/uploads/DSC04926.jpg)
-![](/wp-content/uploads/DSC04927.jpg) 
-![](/wp-content/uploads/DSC04928.jpg) 
-![](/wp-content/uploads/DSC04929.jpg)
+![]( wp-content/uploads/DSC04926.jpg)
+![]( wp-content/uploads/DSC04927.jpg) 
+![]( wp-content/uploads/DSC04928.jpg) 
+![]( wp-content/uploads/DSC04929.jpg)
 
 []s,  
 Carlos dos Santos.

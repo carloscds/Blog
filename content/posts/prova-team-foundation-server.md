@@ -22,7 +22,7 @@ Para os que quiserem fazer esta prova, vai a dica do blog do [Daniel Oliveira](h
 
 E para dar uma animada em quem ainda está indecido, seja a cópia do certificado da prova:
 
-![](/wp-content/uploads/2010/11/CertificadoTFS1.jpg)
+![]( wp-content/uploads/2010/11/CertificadoTFS1.jpg)
 
 Abraços e boa sorte aos que forem fazer a prova.
 

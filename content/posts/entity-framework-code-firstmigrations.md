@@ -31,10 +31,10 @@ Neste artigo iremos abordar os dois métodos de utilização do Migrations e ap�
 Antes de começar, vamos criar nosso projeto de exemplo. Eu estou usando o [Visual Studo 2012](http://www.microsoft.com/visualstudio/11/en-us/downloads), mas você pode também usar o Visual Studio 2010.
 
 Vamos iniciar criando um projeto do tipo console, com o .Net Framework 4:  
-![](/wp-content/uploads/2012/07/image.png)
+![]( wp-content/uploads/2012/07/image.png)
 
 Logo após criar o projeto, vamos adicionar o Entity Framework CodeFirst usando o NuGet. Para isto abra o gerenciador do NuGet em Tools/Library Package Manager/Packager Manager Console e digite:  
-![](/wp-content/uploads/2012/07/image13.png)
+![]( wp-content/uploads/2012/07/image13.png)
 
 Após isto teremos o EF CodeFirst instalado em nosso projeto. Vamos agora criar um Contexto e uma classe para podermos trabalhar com o Migrations.
 
@@ -73,10 +73,10 @@ Agora que já temos nossas classes e o arquivo de configuração, vamos adiciona
 **<u>Migrations – Gerenciando cada atualização no banco de dados</u>**
 
 Vamos inicialmente adicionar o Migrations ao nosso projeto. Independente do método: manual ou automático, precisamos adicioná-lo ao nosso projeto. Faremos isto usando novamente a janela do Nuget através do comando Enable-Migrations:  
-![](/wp-content/uploads/2012/07/image22.png)
+![]( wp-content/uploads/2012/07/image22.png)
 
 Após este comando, uma nova classe será adicionada ao nosso projeto, o nome dela é Configurations:  
-![](/wp-content/uploads/2012/07/image32.png)
+![]( wp-content/uploads/2012/07/image32.png)
 
 Como vamos trabalhar com o processo manual, vamos deixar esta classe como está e vamos iniciar com os comandos do Migrations, que devem ser executados na janela do NuGet:
 
@@ -93,7 +93,7 @@ Para nosso exemplo, iremos executar:
 Update-DataBase  
 **  
 Veja que ao executar o Add-Migrations, um novo arquivo foi adicionado ao projeto, contendo os comandos Migrations para o banco de dados:  
-![](/wp-content/uploads/2012/07/image42.png)
+![]( wp-content/uploads/2012/07/image42.png)
 
 ```csharp
 public partial class CriacaoBanco : DbMigration
@@ -119,7 +119,7 @@ public partial class CriacaoBanco : DbMigration
 ```
 
 Como nosso banco de dados ainda não existia, ele foi criado após o comando Update-DataBase:  
-![](/wp-content/uploads/2012/07/image52.png)
+![]( wp-content/uploads/2012/07/image52.png)
 
 Para que nossos exemplo fiquem mais interessantes, vou adicionar alguns registros no banco de dados usando o código abaixo, mas se você preferir, insira os dados diretamente no SQL:
 
@@ -194,7 +194,7 @@ INSERT INTO [__MigrationHistory] ([MigrationId], [CreatedOn], [Model], [ProductV
 
 Basta executar este arquivo dentro do SQL que o campo será criado e atualizado, ou se preferir, execute novamente o Update-DataBase que isto será feito automaticamente.  
 Este recurso do script pode ser util se você precisar atualizar também um ambiente e produção da sua aplicação.  
-![](/wp-content/uploads/2012/07/image62.png)
+![]( wp-content/uploads/2012/07/image62.png)
 
 **<u>Obs: </u>**A tabela __MigrationHistory é usada pelo Migrations para gerenciar o histórico das versões dentro do banco de dados.
 
@@ -213,7 +213,7 @@ Agora vamos ver como é executar o Migrations de forma totalmente automatica.
 Agora que você já sabe como manter seu banco de dados atualizados, gerando versões das atualizações, vamos imaginar que você não precisa manter este histórico, mas simplesmente manter o banco atualizado.
 
 Para este exemplo, vamos criar um projeto com os mesmos dados do exemplo anterior, ou seja: crie um projeto do tipo console:  
-![](/wp-content/uploads/2012/07/image72.png)
+![]( wp-content/uploads/2012/07/image72.png)
 
 Adicione o EF CodeFirst através do console do NuGet e depois adicione o contexto, a classe cliente e o arquivo app.config, mas neste arquivo iremos modificar o nome do bando de dados para ExemploMigrationsAutomatico:
 
@@ -241,10 +241,10 @@ public class Cliente
 ```
 
 Feito isto vamos adicionar o migrations, da mesma forma que antes, mas agora modificando os parâmetros necessários para que tudo fique automático, então abra o console do NuGet e execute o comando Enable-Migrations:  
-![](/wp-content/uploads/2012/07/image82.png)
+![]( wp-content/uploads/2012/07/image82.png)
 
 Agora que começam as diferenças. No exemplo anterior não modificamos nada na classe configurations, mas neste caso iremos fazer alguns ajustes:  
-![](/wp-content/uploads/2012/07/image92.png)
+![]( wp-content/uploads/2012/07/image92.png)
 
 Primeiro vamos mudar a classe para “public class”, pois precisaremos refenciá-lá posteriormente. Depois vamos ativar a propriedade da migração automatica e por fim vamos marcar a opção que dados podem ser perdidos durante a migração. Esta última opção fica a seu critério, pois se você não habilitar a opção e o Migrations não conseguir atualizar o banco de dados. você receberá um erro.
 
@@ -290,7 +290,7 @@ public class Cliente
 ```
 
 Após executar o programa e fazer uma consulta no SQL:  
-![](/wp-content/uploads/2012/07/image102.png)
+![]( wp-content/uploads/2012/07/image102.png)
 
 **Conclusão:**
 

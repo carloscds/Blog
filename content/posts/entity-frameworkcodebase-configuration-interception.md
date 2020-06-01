@@ -22,7 +22,7 @@ Dentre as várias opções de configuração que temos através do DbConfigurati
 
 Para começar, vamos criar um projeto do tipo Console usando o Visual Studio 2013 e em seguida iremos adicionar o Entity Framework através do NuGet:
 
-![](/wp-content/uploads/2013/12/image2.png)
+![]( wp-content/uploads/2013/12/image2.png)
 
 **<u>Adicionando o Entity Framework Code First:</u>**
 
@@ -34,11 +34,11 @@ Neste exemplo estou utilizando também o [Entity Framework PowerTools](http://vi
 
 Para fazer a engenharia reversa, clique com o botão direito do mouse em cima do nome da sua solution e no menu de contexto escolha: Entity Framework/Reverse Engineer Code First, conforme a figura abaixo:
 
-![](/wp-content/uploads/2013/12/image12.png)
+![]( wp-content/uploads/2013/12/image12.png)
 
 Este comando irá abrir uma janela solicitando as informações do banco de dados. Complete com as suas informações, no meu caso a tela é a seguinte:
 
-![](/wp-content/uploads/2013/12/SNAGHTML5372fbd2.png)
+![]( wp-content/uploads/2013/12/SNAGHTML5372fbd2.png)
 
 **<u>Iniciando a implementação do Interception</u>**
 

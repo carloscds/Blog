@@ -25,11 +25,11 @@ Vejamos o seguinte exemplo:
 
 No SQL local, que todos estamos acostumados, para acessar um BD basta criar uma string de conexão assim:
 
-![](/wp-content/uploads/image_thumb6.png)
+![]( wp-content/uploads/image_thumb6.png)
 
 Para conectar no SQL Azure:
 
-![](/wp-content/uploads/image_thumb16.png)
+![]( wp-content/uploads/image_thumb16.png)
 
 Veja a diferença: você apenas mudou o datasource para o endereço do Azure, o usuário e a senha. Todos os outros comandos são os mesmos, ou seja: SqlCommand, SqlDataAdapter, SqlDataReader, etc. Tudo exatamente igual.
 
@@ -37,11 +37,11 @@ Aqui na empresa fizemos um teste interessante, pegamos nosso ERP e criamos toda 
 
 O SQL Azure está em fase Beta e pode ser acessado no endereço: <http://sql.azure.com>. Basta entrar com seu Windows Live ID e solicitar um convite (invite), por enquanto ainda existem. Depois disto é só logar na ferramenta web e criar o seu banco de dados, veja:
 
-[![](/wp-content/uploads/image_thumb10.png)
+[![]( wp-content/uploads/image_thumb10.png)
 
 Aqui você tem acesso aos seus servidores de SQL e clicando em <span style="color: #ff0000;">Manage</span> você tem acesso a administração dos seus bancos de dados:
 
-![](/wp-content/uploads/image_thumb14.png)
+![]( wp-content/uploads/image_thumb14.png)
 
 Clicando no botão “Connection Strings” o Azure mostra a string de conexão que você deverá usar na sua aplicação, e depois é só acessar o BD e começar os testes!
 

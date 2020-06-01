@@ -21,16 +21,16 @@ Gostaria de ressaltar que fique impressional com a qualidade das instalações e
 
 Vejam as fotos:
 
-![](/wp-content/uploads/2010/12/foto1.jpg)  
+![]( wp-content/uploads/2010/12/foto1.jpg)  
 Diretor fazendo a abertura.
 
-![](/wp-content/uploads/2010/12/foto2.jpg)  
+![]( wp-content/uploads/2010/12/foto2.jpg)  
 Muitos alunos de todas as idades.
 
-![](/wp-content/uploads/2010/12/foto3.jpg)  
+![]( wp-content/uploads/2010/12/foto3.jpg)  
 Palestra sobre Mercado e Tecnologias
 
-![](/wp-content/uploads/2010/12/foto4.jpg)  
+![]( wp-content/uploads/2010/12/foto4.jpg)  
 Palestra sobre Incubadoras.
 
 Abraços,  
