@@ -15,6 +15,7 @@ taxonomies:
     category : categories
     tag : tags
     series : series
+    removePathAccents : true
 outputFormats:          # use for search. recommend not to modify 
   SearchIndex:
     mediaType: "application/json"
