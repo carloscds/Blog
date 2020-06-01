@@ -1,5 +1,4 @@
-baseURL: http://localhost/blog/
-absURL: http://localhost/blog/
+baseURL: http://localhost
 theme: pure
 title: Carlos dos Santos
 defaultContentLanguage: en  # en/zh/...
@@ -68,7 +67,13 @@ menu:
       title: Contact
       url: mailto:cdssoftware@hotmail.com?subject=Contato_Blog
       weight: 6
-      
+
+    - identifier: videos
+      name: Videos
+      title: Videos
+      url: /videos/
+      weight: 7
+
 
 params:
   since: 2008
@@ -97,6 +102,7 @@ params:
     links: icon-friendship
     about: icon-cup-fill
     contact: icon-project
+    videos: icon-book-fill
 
   # profile
   profile:
