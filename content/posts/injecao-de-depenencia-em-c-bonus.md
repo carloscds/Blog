@@ -133,6 +133,7 @@ O IHttpContextAccessor nos permite acessar o contexto Http do ASP.NET Core em qu
 
 Veja aqui a interface _IEnvioEmail_ e a classe _EnvioEmail_:
 
+***Interface***
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -148,6 +149,7 @@ namespace InjecaoDependenciaDiretaEF.Services
 }
 ```
 
+***Classe***
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -156,9 +158,9 @@ using System.Threading.Tasks;
 
 namespace InjecaoDependenciaDiretaEF.Services
 {
-    public interface IEnvioEmail
+    public class EnvioEmail : IEnvioEmail
     {
-        string Enviar();
+        public string Enviar() => "Email Enviado";
     }
 }
 ```
