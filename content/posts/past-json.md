@@ -15,9 +15,9 @@ O Visual Studio tem um recurso chamado "Paste JSON as Classes" que pega o conte�
 
 ![](img/2020/06/past-json-01.png)
 
-Agora vamos acessar uma API que retorna dados em Json, por exemplo esta API que retorna a previão do tempo: [http://worldtimeapi.org/api/timezone/America/Sao_Paulo](http://worldtimeapi.org/api/timezone/America/Sao_Paulo)
+Agora vamos acessar uma API que retorna dados em Json, por exemplo esta API que retorna a previsão do tempo: [http://worldtimeapi.org/api/timezone/America/Sao_Paulo](http://worldtimeapi.org/api/timezone/America/Sao_Paulo)
 
-Vou usar o [Insomnia](https://insomnia.rest/download/) para visualizar os dados e copia:
+Vou usar o [Insomnia](https://insomnia.rest/download/) para visualizar os dados e copiar o retorno:
 
 ![](img/2020/06/past-json-02.png)
 
@@ -45,7 +45,7 @@ public class Rootobject
     public int week_number { get; set; }
 }
 ```
-Agora é so usar a classe!
+E pronto!
 
 Abraços e até a próxima.  
 Carlos dos Santos.
