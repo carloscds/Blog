@@ -7,8 +7,8 @@
         <script type="text/javascript">
 
             var disqus_config = function () {
-                this.page.url = 'https://carloscds.net';
-                this.page.identifier = '{{- $.Permalink }}';
+                this.page.url = '{{- $.Permalink }}';
+                this.page.identifier = '{{- $comment.disqus }}';
                 this.page.title = '{{- $.Title }}';
             };
     
