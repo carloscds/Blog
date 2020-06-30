@@ -8,8 +8,8 @@
 
             var disqus_config = function () {
                 this.page.url = 'https://carloscds.net';
-                this.page.identifier = "{{- .Permalink }}"
-                this.page.title = "{{- .Title }}";
+                this.page.identifier = '{{- $.Permalink }}';
+                this.page.title = '{{- $.Title }}';
             };
     
             (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW

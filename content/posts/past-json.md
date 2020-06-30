@@ -1,5 +1,6 @@
 ---
 title: 'Gerar uma classe a partir de um Json no Visual Studio'
+id : 123
 date: 2020-06-28
 author: carloscds
 layout: post
