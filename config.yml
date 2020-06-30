@@ -1,4 +1,5 @@
 baseURL: https://carloscds.net
+baseUrl : 
 theme: pure
 title: Carlos dos Santos
 defaultContentLanguage: en  # en/zh/...
@@ -9,8 +10,9 @@ paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
 googleAnalytics: "UA-8863591-6"
-permalinks:
+permalinks: 
   posts: /:year/:month/:filename/
+  
 
 taxonomies:
     category : categories
@@ -81,6 +83,7 @@ params:
   since: 2008
   dateFormatToUse: ""
   enablePostCopyright: false
+  
   # the directory under content folder that you want to render
   mainSections: ["posts"]
   # Enable/Disable menu icons
@@ -144,7 +147,7 @@ params:
   # Comment
   comment:
     type:  disqus
-    disqus: https-www-carloscds-net # enter disqus shortname here
+    disqus: carloscds
 
   # PV
   pv:
