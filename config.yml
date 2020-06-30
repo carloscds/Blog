@@ -82,6 +82,7 @@ params:
   since: 2008
   dateFormatToUse: ""
   enablePostCopyright: false
+  disqusShortname: "carloscds"
   
   # the directory under content folder that you want to render
   mainSections: ["posts"]
@@ -147,8 +148,6 @@ params:
   comment:
     type:  disqus
     disqus: carloscds
-
-  disqusShortname: "carloscds"
 
   # PV
   pv:

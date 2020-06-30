@@ -11,7 +11,7 @@
                 if (window.location.hostname == "localhost") {
                     return;
                 }
-                var disqus_shortname = '{{ .Site.Params.disqusShortname }}';
+                var disqus_shortname = 'carloscds';
                 var disqus_identifier = '{{if isset .Params "disqus_identifier" }}{{ index .Params "disqus_identifier" }}{{ else }}{{ .Permalink }}{{end}}';
                 var disqus_title = '{{if isset .Params "disqus_title" }}{{ index .Params "disqus_title" }}{{ else }}{{ .Title }}{{end}}';
                 var disqus_url = '{{if isset .Params "disqus_url" }}{{ index .Params "disqus_url" | html  }}{{ else }}{{ .Permalink }}{{end}}';
