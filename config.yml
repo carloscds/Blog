@@ -1,5 +1,4 @@
 baseURL: https://carloscds.net
-baseUrl : 
 theme: pure
 title: Carlos dos Santos
 defaultContentLanguage: en  # en/zh/...
