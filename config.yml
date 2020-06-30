@@ -148,6 +148,8 @@ params:
     type:  disqus
     disqus: carloscds
 
+  disqusShortname: "carloscds"
+
   # PV
   pv:
     busuanzi:
