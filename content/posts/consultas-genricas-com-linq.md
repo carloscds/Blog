@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2010/07/consultas-genricas-com-linq/
 permalink: /2010/07/consultas-genricas-com-linq/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'c#; msdn'
+  
 ---
 No conceito de orientação a objeto, sempre temos em mente criar códigos que possam ser reutilizados dentro da aplicação ou mesmo em aplicações diferentes, e neste contexto eu tenho sido questionado sobre como é possível usar Linq, que é totalmente orientado a objeto e fortemente tipado, e ainda sim criar códigos reusáveis.
 

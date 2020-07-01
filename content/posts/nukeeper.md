@@ -5,8 +5,8 @@ date: 2020-06-01
 author: carloscds
 layout: post
 categories:
-  - .NET
-  - .NET Core
+  - DotNet
+  - DotNet Core
 ---
 Todos nós usamos diversos pacotes em nossas aplicações, até mesmo partes essenciais dos projetos estão em pacotes hoje em dia! Ai vem o grande desafio, como manter isto tudo atualizado, e principalmente, como descobrir o que precisa ser atualizado ?
 

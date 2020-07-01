@@ -7,7 +7,7 @@ layout: post
 guid: /post/2009/11/18/Cobol-2b-Team-Foundation-Server.aspx
 permalink: /2009/11/cobol-team-foundation-server/
 categories:
-  - ALM
+  - DevOps
   - Visual Studio
 tags:
   - msdn

@@ -13,7 +13,7 @@ aktt_tweeted:
 categories:
   - Azure
 tags:
-  - msdn
+  
 ---
 Pessoal,
 

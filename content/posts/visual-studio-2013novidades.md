@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2013/10/visual-studio-2013novidades/
 permalink: /2013/10/visual-studio-2013novidades/
 categories:
-  - 'C#'
-  - IDE
+  - C Sharp
+  - Visual Studio
 tags:
-  - 'c#; msdn'
+  
 ---
 Olá pessoal,
 

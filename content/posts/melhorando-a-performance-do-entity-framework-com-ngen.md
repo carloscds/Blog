@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/?p=4891
 permalink: /2014/04/melhorando-a-performance-do-entity-framework-com-ngen/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'msdn;c#;ef codefirst; ef'
+  - 'ef codefirst; ef'
 ---
 Olá pessoal,
 

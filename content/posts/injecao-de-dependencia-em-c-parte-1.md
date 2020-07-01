@@ -8,9 +8,9 @@ guid: http://carloscds.net/?p=10403
 permalink: /2020/02/injecao-de-dependencia-em-c-parte-1/
 image:  wp-content/uploads/2020/02/di-175x131.jpg
 categories:
-  - .Net
-  - .Net Core
-  - 'C#'
+  - DotNet
+  - DotNet Core
+  - C Sharp
 ---
 Olá,
 

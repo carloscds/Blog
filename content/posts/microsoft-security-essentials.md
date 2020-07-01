@@ -7,7 +7,7 @@ layout: post
 guid: /post/2009/10/01/Microsoft-Security-Essentials.aspx
 permalink: /2009/10/microsoft-security-essentials/
 categories:
-  - Diversos
+  - Windows
 ---
 A Microsoft lançou hoje o Microsoft Security Essentials, ferramenta que protege o computador de vírus, spyware e outros softwares maliciosos.
 

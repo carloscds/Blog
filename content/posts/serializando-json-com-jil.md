@@ -7,8 +7,8 @@ layout: post
 guid: http://carloscds.net/?p=7781
 permalink: /2016/07/serializando-json-com-jil/
 categories:
-  - .Net
-  - 'C#'
+  - DotNet
+  - C Sharp
   - Open Source
 tags:
   - json

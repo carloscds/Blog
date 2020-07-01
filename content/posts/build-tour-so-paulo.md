@@ -7,9 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=6511
 permalink: /2015/05/build-tour-so-paulo/
 categories:
-  - 'C#'
   - Eventos
-  - Windows
 tags:
   - windows10
 ---

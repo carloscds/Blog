@@ -11,10 +11,10 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
 categories:
-  - Team Foundation Server
+  - DevOps
   - Visual Studio
 tags:
-  - 'msdn;c#'
+  
 ---
 Pessoal,
 

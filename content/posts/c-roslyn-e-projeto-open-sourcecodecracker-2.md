@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/?p=6101
 permalink: /2014/11/c-roslyn-e-projeto-open-sourcecodecracker-2/
 categories:
-  - 'C#'
+  - C Sharp
 tags:
-  - 'msdn;c#'
+  
 ---
 Esta semana a Microsoft anunciou o novo Visual Studio 2015 e junto com ele o C# 6 com seu novo compilador, anteriormente conhecido como Roslyn e agora oficialmente chamado de [.Net Compiler Platform](https://roslyn.codeplex.com/). 
 

@@ -8,9 +8,9 @@ guid: http://carloscds.net/2013/07/analise-sua-conta-do-windows-azure/
 permalink: /2013/07/analise-sua-conta-do-windows-azure/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
 tags:
-  - 'msdn;c#;azure'
+  - 'Azure'
 ---
 Pessoal,
 

@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=8853
 permalink: /2017/06/visual-studio-summit-2017/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 ---
 No último dia 03 de junho tive novamente a felicidade de ser palestrante do Visual Studio Summit em São Paulo, um evento incrível, com pessoas incríveis!

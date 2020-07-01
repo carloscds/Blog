@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/?p=4441
 permalink: /2014/01/capturando-a-tela-em-windows-forms/
 categories:
-  - 'C#'
+  - C Sharp
 tags:
-  - 'c#; msdn'
+  
 ---
 Olá pessoal,
 

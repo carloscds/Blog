@@ -11,7 +11,7 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
 categories:
-  - ALM
+  - DevOps
 tags:
   - msdn
 ---

@@ -11,7 +11,7 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
   - 'msdn;c#'

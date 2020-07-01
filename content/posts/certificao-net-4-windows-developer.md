@@ -7,8 +7,8 @@ layout: post
 guid: http://carloscds.net/2010/06/certificao-net-4-windows-developer/
 permalink: /2010/06/certificao-net-4-windows-developer/
 categories:
-  - 'C#'
-  - Certificação
+  - C Sharp
+  - Certificacao
 ---
 Pessoal,
 

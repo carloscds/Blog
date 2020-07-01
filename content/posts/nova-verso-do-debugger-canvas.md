@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2012/02/nova-verso-do-debugger-canvas/
 permalink: /2012/02/nova-verso-do-debugger-canvas/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'msdn;c#'
+  
 ---
 Pessoal, eu fiz um [post](http://carloscds.net/2011/06/visual-studio-debugger-canvas) sobre o Debugger Canvas há um tempo atrás. Agora foi lançada a [versão 1.1](http://msdn.microsoft.com/en-us/devlabs/debuggercanvas), que conta com diversas melhorias, como por exemplo: ligar/desligar o canvas durante o debug, edição de código dentro do canvas, entre outros.
 

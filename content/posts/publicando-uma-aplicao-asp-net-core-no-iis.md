@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=9482
 permalink: /2017/08/publicando-uma-aplicao-asp-net-core-no-iis/
 categories:
-  - .Net Core
+  - DotNet Core
 ---
 Olá pessoal, ja faz um tempo do meu post sobre [como publicar uma aplicação no IIS](http://carloscds.net/2010/10/publicando-uma-aplicao-web-no-iis-7/), e agora, como temos novas tecnologias, chegou a hora de mostrar como fazer a publicação de uma aplicação Asp.Net Core!
 

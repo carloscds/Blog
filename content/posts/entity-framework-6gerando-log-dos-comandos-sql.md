@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2013/09/entity-framework-6gerando-log-dos-comandos-sql/
 permalink: /2013/09/entity-framework-6gerando-log-dos-comandos-sql/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'msdn;c#;ef codefirst'
+  - 'ef codefirst'
 ---
 Olá,
 

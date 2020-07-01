@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/2013/03/mvp-virtual-conference/
 permalink: /2013/03/mvp-virtual-conference/
 categories:
-  - Uncategorized
+  - Eventos
 ---
 ![](http://www.microsoft.com/Brasil/images/MVPShow/MVP_Banner.jpg) 
 

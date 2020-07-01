@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2013/08/entity-framework-6trabalhando-com-os-nightly-builds/
 permalink: /2013/08/entity-framework-6trabalhando-com-os-nightly-builds/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'msdn;c#;ef codefirst'
+  - 'ef codefirst'
 ---
 Olá pessoal,
 

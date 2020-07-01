@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2013/12/entity-frameworkcodebase-configuration-interception/
 permalink: /2013/12/entity-frameworkcodebase-configuration-interception/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'msdn;c#;ef codefirst; ef'
+  - 'ef codefirst; ef'
 ---
 Olá pessoal,
 

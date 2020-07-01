@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2012/01/entityframework-codefirst/
 permalink: /2012/01/entityframework-codefirst/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'msdn;c#;ef codefirst; ef'
+  - 'ef codefirst; ef'
 ---
 No [post anterior](http://carloscds.net/2012/01/trabalhando-com-entity-framework-designer), eu falei em como trabalhar com Entity Framework usando o Designer, ou seja, um modelo de classes criado a partir de um arquivo EDMX. Este modelo funciona perfeitamente em diversos tipos de projetos, mas o grande incoveniente é ter um arquivo EDMX para cada tipo de banco de dados do seu projeto.
 

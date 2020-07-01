@@ -7,10 +7,10 @@ layout: post
 guid: /post/2010/06/07/Scrum-para-o-VSTS-2010.aspx
 permalink: /2010/06/scrum-para-o-vsts-2010/
 categories:
-  - ALM
+  - DevOps
   - Visual Studio
 tags:
-  - scrum
+  - Scrum
 ---
 A Microsoft acaba de liberar o template Beta de Scrum para o Team Foundation Server 2010. Eu já tive oportunidade de trabalhar com ele na semana passada durante um curso de Professional Scrum Developer e está realmente muito bom.
 

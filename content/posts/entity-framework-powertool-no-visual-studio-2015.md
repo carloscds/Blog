@@ -7,8 +7,8 @@ layout: post
 guid: http://carloscds.net/?p=6871
 permalink: /2015/12/entity-framework-powertool-no-visual-studio-2015/
 categories:
-  - .Net
-  - 'C#'
+  - DotNet
+  - C Sharp
   - Entity Framework
 ---
 Olá,

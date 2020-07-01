@@ -9,7 +9,7 @@ permalink: /2011/06/visual-studio-debugger-canvas/
 aktt_notify_twitter:
   - 'yes'
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
   - 'c#; msdn'

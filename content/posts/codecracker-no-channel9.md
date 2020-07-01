@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=6971
 permalink: /2015/12/codecracker-no-channel9/
 categories:
-  - Uncategorized
+  - Videos
 ---
 Fala galera,
 

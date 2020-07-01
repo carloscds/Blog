@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=10369
 permalink: /2019/07/voce-ja-ouviu-falar-em-self-contained-application/
 image:  wp-content/uploads/2019/07/domo-175x131.png
 categories:
-  - .Net Core
+  - DotNet Core
 ---
 Se você desenvolve em .NET provavelmente já se perguntou se tudo o que é preciso para a sua aplicação funcionar está na pasta de publicação, certo ? Normalmente temos dezenas, as vezes centenas de DLLs que precisamos levar para o ambiente de produção, e esquecer uma delas pode ser um caos total!
 

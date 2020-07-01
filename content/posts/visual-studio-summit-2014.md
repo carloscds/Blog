@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=5261
 permalink: /2014/05/visual-studio-summit-2014/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
   - Visual Studio
 ---

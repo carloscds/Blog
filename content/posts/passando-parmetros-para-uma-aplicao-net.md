@@ -9,10 +9,10 @@ permalink: /2010/09/passando-parmetros-para-uma-aplicao-net/
 aktt_notify_twitter:
   - 'no'
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'c#; msdn'
+  
 ---
 Pessoal, seguindo com os posts sobre C# básico, vou mostrar como passar parâmetros para uma aplicação em .Net usando C# em um Windows Forms. 
 

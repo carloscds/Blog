@@ -8,9 +8,9 @@ guid: http://carloscds.net/2013/09/palestra-de-windows-azurecesumar/
 permalink: /2013/09/palestra-de-windows-azurecesumar/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
 tags:
-  - 'msdn;c#;azure'
+  - 'azure'
 ---
 Pessoal,
 

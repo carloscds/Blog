@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=7561
 permalink: /2016/04/palesta-sobre-microsoft-open-source-no-flisol-de-marlia/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
   - Open Source
 ---
 Hoje foi dia de Global Azure Boot Camp, um evento sobre Azure realizado no mundo todo, no mesmo dia. Mas eu tive outra missão este ano, falar sobre Microsoft open source em um evento de software livre, o FLISOL.

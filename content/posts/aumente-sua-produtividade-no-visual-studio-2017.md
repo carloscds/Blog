@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/?p=8781
 permalink: /2017/04/aumente-sua-produtividade-no-visual-studio-2017/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - prodividade
+  - produvidade
 ---
 Ola pessoal,
 

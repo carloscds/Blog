@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/?p=4701
 permalink: /2014/01/devchamps-entityframework6/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'c#; entity framework'
+  - entity framework
 ---
 Pessoal, 
 

@@ -8,7 +8,7 @@ guid: http://carloscds.net/2013/04/windows-azure-bootcamp/
 permalink: /2013/04/windows-azure-bootcamp/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
 tags:
   - 'msdn;c#;azure'
 ---

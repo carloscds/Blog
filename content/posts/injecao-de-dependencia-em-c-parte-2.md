@@ -8,9 +8,9 @@ guid: http://carloscds.net/?p=10414
 permalink: /2020/02/injecao-de-dependencia-em-c-parte-2/
 image:  wp-content/uploads/2020/02/Dependency-Injection-ASP.NET-Core-175x131.png
 categories:
-  - .Net Core
+  - DotNet Core
   - Asp.Net
-  - 'C#'
+  - C Sharp
 ---
 Na [parte 1 desta série](http://carloscds.net/2020/02/injecao-de-dependencia-em-c-parte-1/) falamos sobre como funciona a injeção de dependência e até criamos um exemplo usando NInject. um famoso mecanismo de DI (depency injection).
 

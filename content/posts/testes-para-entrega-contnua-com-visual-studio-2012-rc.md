@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/2012/06/testes-para-entrega-contnua-com-visual-studio-2012-rc/
 permalink: /2012/06/testes-para-entrega-contnua-com-visual-studio-2012-rc/
 categories:
-  - ALM
+  - DevOps
 tags:
-  - 'msdn;c#; tfs'
+  - tfs
 ---
 Pessoal,
 

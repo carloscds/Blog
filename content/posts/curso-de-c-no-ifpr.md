@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/2011/10/curso-de-c-no-ifpr/
 permalink: /2011/10/curso-de-c-no-ifpr/
 categories:
-  - Uncategorized
+  - C Sharp
 tags:
-  - 'c#'
+  - C Sharp
 ---
 Nos dias 14 e 15 de setembro eu ministrei um curso básico de C# para os alunos do curso técnico do Instituto Federal do Paraná ([www.ifpr.edu.br](http://www.ifpr.edu.br)) a convite do Prof. Rodolfo Barrivieira.
 

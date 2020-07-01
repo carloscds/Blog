@@ -11,10 +11,10 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'c#; msdn'
+  
 ---
 Para quem já conhecia o componente de impressão matricial, eu fiz um update nele e agora é possível usar em Windows 7. Estou também fornecendo os fontes do componente para aqueles que queiram estudar e aprimorar.
 

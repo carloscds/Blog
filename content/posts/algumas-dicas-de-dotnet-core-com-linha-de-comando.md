@@ -7,8 +7,8 @@ layout: post
 guid: http://carloscds.net/?p=8501
 permalink: /2017/03/algumas-dicas-de-dotnet-core-com-linha-de-comando/
 categories:
-  - 'C#'
-  - DotNetCore
+  - C Sharp
+  - DotNet Core
 ---
 Olá pessoal,
 

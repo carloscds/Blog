@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=10223
 permalink: /2018/07/ef-core-lazy-loading/
 categories:
-  - .Net Core
+  - DotNet Core
   - EntityFramework Core
 tags:
   - EntityFramework Core

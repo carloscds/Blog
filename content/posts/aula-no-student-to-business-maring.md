@@ -8,9 +8,9 @@ guid: http://carloscds.net/?p=6761
 permalink: /2015/12/aula-no-student-to-business-maring/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
 tags:
-  - 'c#; entity framework; azure'
+  - 'Azure'
 ---
 Olá pessoal,
 

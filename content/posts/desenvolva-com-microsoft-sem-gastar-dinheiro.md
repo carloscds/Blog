@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/?p=7351
 permalink: /2016/04/desenvolva-com-microsoft-sem-gastar-dinheiro/
 categories:
-  - .Net
+  - DotNet
   - Asp.Net
-  - 'C#'
+  - C Sharp
   - SQL
 ---
 Ola pessoal,

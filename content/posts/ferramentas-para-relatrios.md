@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2010/09/ferramentas-para-relatrios/
 permalink: /2010/09/ferramentas-para-relatrios/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'msdn;c#'
+  
 ---
 Para quem está desenvolvendo aplicações comerciais em .Net, uma dúvida muito comum é como criar os relatórios da aplicação. Se você usa o Microsoft SQL Server, poderá usar o Reporting Services (), que é um excelente ferramenta para relatórios.
 

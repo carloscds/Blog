@@ -8,7 +8,7 @@ guid: /post/2010/04/18/Desenvolvimento-para-Windows-Phone-com-Silverlight.aspx
 permalink: /2010/04/desenvolvimento-para-windows-phone-com-silverlight/
 categories:
   - Visual Studio
-  - Windows Phone
+  - C Sharp
 tags:
   - Windows Phone
 ---

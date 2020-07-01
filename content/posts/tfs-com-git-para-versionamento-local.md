@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/2012/08/tfs-com-git-para-versionamento-local/
 permalink: /2012/08/tfs-com-git-para-versionamento-local/
 categories:
-  - Team Foundation Server
+  - DevOps
 tags:
-  - 'msdn;c#; tfs'
+  - 'tfs'
 ---
 Olás pessoal,
 

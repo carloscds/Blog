@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=10384
 permalink: /2019/09/asp-net-core-minhas-views-sumiram-no-publish/
 image:  wp-content/uploads/2019/09/RazorPage-175x131.png
 categories:
-  - .Net Core
+  - DotNet Core
   - Asp.Net
 ---
 Você é do tipo que as vezes muda o conteúdo de uma view no ambiente de produção ? 

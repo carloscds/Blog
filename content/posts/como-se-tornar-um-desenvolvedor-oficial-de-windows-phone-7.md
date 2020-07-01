@@ -11,11 +11,11 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
   - Windows Phone
 tags:
-  - 'c#; msdn; windows phone'
+  
 ---
 Olá pessoal,
 

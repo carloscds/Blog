@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=7621
 permalink: /2016/06/visual-studio-summit/
 categories:
-  - .Net Core
+  - DotNet Core
   - IoT
   - Visual Studio
 ---

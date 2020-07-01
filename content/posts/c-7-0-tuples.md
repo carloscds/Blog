@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/?p=8151
 permalink: /2016/09/c-7-0-tuples/
 categories:
-  - 'C#'
+  - C Sharp
 tags:
-  - 'c#; tuple'
+  - 'Tuple'
 ---
 Olá pessoal,
 

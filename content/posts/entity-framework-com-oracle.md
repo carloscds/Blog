@@ -9,7 +9,7 @@ permalink: /2012/01/entity-framework-com-oracle/
 categories:
   - Entity Framework
 tags:
-  - 'msdn;c#;ef;oracle'
+  - 'ef;oracle'
 ---
 A Oracle acabou de lancar seu provider nativo para o Entity Framework, a versão ODAC&#160; 11.2. Agora você já pode acessar nativamente o Oracle com o EF, facilitando o desenvolvimento através do mapeamento objeto relacional.
 

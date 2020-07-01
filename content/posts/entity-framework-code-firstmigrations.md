@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2012/07/entity-framework-code-firstmigrations/
 permalink: /2012/07/entity-framework-code-firstmigrations/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'c#; msdn; entity framework'
+  - 'entity framework'
 ---
 Olá pessoal,
 

@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/2013/03/como-escolher-o-modelo-ideal-de-tfs-para-sua-empresa/
 permalink: /2013/03/como-escolher-o-modelo-ideal-de-tfs-para-sua-empresa/
 categories:
-  - Team Foundation Server
+  - DevOps
 tags:
-  - tfs
+  - DevOps
 ---
 Pessoal,
 

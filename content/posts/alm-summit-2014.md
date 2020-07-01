@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/?p=6002
 permalink: /2014/09/alm-summit-2014/
 categories:
-  - ALM
+  - DevOps
   - Azure
 tags:
-  - 'msdn;c#;azure'
+  - 'Azure'
 ---
 Olá pessoal,
 

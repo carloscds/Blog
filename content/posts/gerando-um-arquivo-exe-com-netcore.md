@@ -7,8 +7,8 @@ layout: post
 guid: http://carloscds.net/?p=9643
 permalink: /2017/10/gerando-um-arquivo-exe-com-netcore/
 categories:
-  - .Net Core
-  - 'C#'
+  - DotNet Core
+  - C Sharp
 tags:
   - publish
 ---

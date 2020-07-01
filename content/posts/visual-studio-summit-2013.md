@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/2013/05/visual-studio-summit-2013/
 permalink: /2013/05/visual-studio-summit-2013/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
   - Windows 8
 tags:

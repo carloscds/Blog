@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=4721
 permalink: /2014/04/visual-studio-online/
 categories:
-  - Team Foundation Server
+  - DevOps
 tags:
   - msdn
 ---

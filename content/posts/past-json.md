@@ -5,8 +5,8 @@ date: 2020-06-28
 author: carloscds
 layout: post
 categories:
-  - 'Visual Studio'
-  - 'C#'
+  - Visual Studio
+  - C Sharp
 ---
 Fala pessoal,
 

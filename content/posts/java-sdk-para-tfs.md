@@ -11,9 +11,9 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
 categories:
-  - Team Foundation Server
+  - DevOps
 tags:
-  - 'msdn;c#; tfs'
+  - 'tfs'
 ---
 Para você que desenvolve em Java e gostaria de acessar o TFS via programação, a Microsoft acaba de lancar o [Java SDK para TFS](http://blogs.msdn.com/b/bharry/archive/2011/05/16/announcing-a-java-sdk-for-tfs.aspx), que permite criar aplicações em Java para acesso aos recursos do TFS.
 

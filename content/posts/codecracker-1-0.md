@@ -7,8 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=7541
 permalink: /2016/04/codecracker-1-0/
 categories:
-  - 'C#'
-  - Roslyn
+  - C Sharp
 ---
 Depois de um longo tempo e muito trabalho, temos o oriulho de anunciar a versão 1.0 do CodeCracker, uma das mais populares ferramentas para análise estática de código do mercado, e totalmente free e open source.
 

@@ -12,10 +12,10 @@ aktt_tweeted:
   - "1"
 categories:
   - Asp.Net
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'c#; msdn'
+  
 ---
 Olá pessoal, neste artigo vou mostrar como é simples publicar uma aplicação web no IIS 7 (Internet Information Server), que está presente no Windows Vista, Windows 7 e Windows Server 2008 e 2008 R2. 
 

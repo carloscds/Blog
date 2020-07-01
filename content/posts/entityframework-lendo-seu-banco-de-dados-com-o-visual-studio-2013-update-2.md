@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=5481
 permalink: /2014/07/entityframework-lendo-seu-banco-de-dados-com-o-visual-studio-2013-update-2/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 ---
 Olá pessoal,

@@ -7,10 +7,10 @@ layout: post
 guid: /post/2009/11/03/Programacao-Paralela-com-C-40.aspx
 permalink: /2009/11/programacao-paralela-com-c-4-0/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'msdn;c#'
+  
 ---
 Uma das novidades do .Net Framework 4.0 é a programação paralela, ou paralelelismo, que consiste em se utilizar os vários núcleos disponíveis nos computadores atuais, por exemplo, os famosos Core 2 Duo.
 

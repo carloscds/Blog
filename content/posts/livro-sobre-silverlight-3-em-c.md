@@ -7,7 +7,7 @@ layout: post
 guid: /post/2009/12/14/Livro-Sobre-Silverlight-3-em-C.aspx
 permalink: /2009/12/livro-sobre-silverlight-3-em-c/
 categories:
-  - CSharp
+  - C Sharp
   - Silverlight
   - Visual Studio
 ---

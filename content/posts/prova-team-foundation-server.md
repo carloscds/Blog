@@ -11,10 +11,10 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
 categories:
-  - ALM
+  - DevOps
   - Visual Studio
 tags:
-  - msdn
+  
 ---
 Pessoal, há duas semanas eu fiz a prova do Team Foundation Server Administrator (70-512). A prova relata bem a realidade de um administrador de TFS, com perguntas bem objetivas sobre o dia a dia de uma empresa e situações que realmente acontecem.
 

@@ -7,8 +7,8 @@ layout: post
 guid: http://carloscds.net/?p=7521
 permalink: /2016/04/c-interativo-repl/
 categories:
-  - .Net
-  - 'C#'
+  - DotNet
+  - C Sharp
   - Visual Studio
 ---
 Alguma vez você já pensou em testar aquele trecho de código sem precisar compilar toda a solução ?

@@ -5,9 +5,9 @@ date: 2020-02-27
 author: carloscds
 layout: post
 categories:
-  - .Net Core
+  - DotNet Core
   - Asp.Net
-  - 'C#'
+  - C Sharp
   - EntityFramework Core
 ---
 No último artigo desta série, vou mostrar duas coisas bem simples: primeiro como usar o EntityFramework Core em memória e como invocar uma dependência injetada sem usar o construtor da classe!

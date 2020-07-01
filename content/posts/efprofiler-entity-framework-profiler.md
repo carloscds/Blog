@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2010/08/efprofiler-entity-framework-profiler/
 permalink: /2010/08/efprofiler-entity-framework-profiler/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'c#; msdn'
+  
 ---
 Se você está trabalhando com EF4, provavelmente já se perguntou se os comandos SQL gerados estão realmente otimizados, ou talvez quando você tem algum problema de performance. Para responder a isto existem várias ferramentas de análise, ou profilers, e um destes é o EFProfiler.
 

@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=8211
 permalink: /2016/10/criando-recursos-no-azure-com-a-fluentapi-em-c/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
 ---
 Fala pessoal, tudo bem?
 

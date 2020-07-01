@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=6231
 permalink: /2014/11/visual-studio-2015-e-c-6algumas-novidades/
 categories:
-  - 'C#'
+  - C Sharp
 tags:
   - 'msdn;c#'
 ---

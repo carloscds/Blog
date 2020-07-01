@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=9523
 permalink: /2017/09/voce-se-preocupa-com-performance-ou-sempre-problema-da-infra/
 categories:
   - Asp.Net
-  - 'C#'
+  - C Sharp
   - Entity Framework
   - Performance
 ---

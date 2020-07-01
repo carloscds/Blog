@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2012/01/trabalhando-com-entity-framework-designer/
 permalink: /2012/01/trabalhando-com-entity-framework-designer/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'c#; msdn; #ef'
+  
 ---
 Olá pessoal,
 

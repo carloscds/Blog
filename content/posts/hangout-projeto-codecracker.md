@@ -7,8 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=6561
 permalink: /2015/06/hangout-projeto-codecracker/
 categories:
-  - 'C#'
-  - Roslyn
+  - C Sharp
 ---
 Pessoal,
 

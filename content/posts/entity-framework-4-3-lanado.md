@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2012/02/entity-framework-4-3-lanado/
 permalink: /2012/02/entity-framework-4-3-lanado/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'msdn;c#'
+  
 ---
 Pessoal,
 

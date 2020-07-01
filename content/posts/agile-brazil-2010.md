@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/2010/06/agile-brazil-2010/
 permalink: /2010/06/agile-brazil-2010/
 categories:
-  - Uncategorized
+  - Eventos
 tags:
   - eventos
 ---

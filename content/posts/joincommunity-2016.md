@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=7601
 permalink: /2016/05/joincommunity-2016/
 categories:
-  - OpenSource
+  - Open Source
   - Sonarqube
 ---
 Olá pessoal,

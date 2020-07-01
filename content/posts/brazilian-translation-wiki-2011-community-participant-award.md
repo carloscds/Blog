@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/2011/10/brazilian-translation-wiki-2011-community-participant-award/
 permalink: /2011/10/brazilian-translation-wiki-2011-community-participant-award/
 categories:
-  - Uncategorized
+  - Premios
 tags:
-  - 'msdn;c#'
+  
 ---
 Pessoal,
 

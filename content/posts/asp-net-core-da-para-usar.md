@@ -8,10 +8,9 @@ guid: http://carloscds.net/?p=10323
 permalink: /2019/03/asp-net-core-da-para-usar/
 image:  wp-content/uploads/2019/03/aspnetcore-oss-1-175x131.png
 categories:
-  - .Net Core
+  - DotNet Core
   - Azure
   - Open Source
-  - Uncategorized
 ---
 Esta semana aconteceu algo interessante. Tenho um projeto hospedado em um host, que por sinal é muito eficiente, mas me surpreendeu quando perguntei se eles suportavam ASP.NET Core!
 

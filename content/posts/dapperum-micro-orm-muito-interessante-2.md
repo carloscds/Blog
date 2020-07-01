@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/?p=5791
 permalink: /2014/09/dapperum-micro-orm-muito-interessante-2/
 categories:
-  - 'C#'
+  - C Sharp
   - ORM
 tags:
-  - 'msdn;c#'
+  
 ---
 Olá pessoal,
 

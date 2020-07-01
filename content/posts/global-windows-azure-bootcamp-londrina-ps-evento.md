@@ -8,9 +8,9 @@ guid: http://carloscds.net/2013/04/global-windows-azure-bootcamp-londrina-ps-eve
 permalink: /2013/04/global-windows-azure-bootcamp-londrina-ps-evento/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
 tags:
-  - 'msdn;c#;azure'
+  - 'azure'
 ---
 Pessoal,
 

@@ -7,7 +7,7 @@ layout: post
 guid: /post/2009/10/20/Visual-Studio-2010-Beta-2.aspx
 permalink: /2009/10/visual-studio-2010-beta-2/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 ---
 Pessoal,

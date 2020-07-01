@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2013/11/melhorando-o-tempo-de-carga-do-entity-framework-com-ngen/
 permalink: /2013/11/melhorando-o-tempo-de-carga-do-entity-framework-com-ngen/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'msdn;c#;ef codefirst'
+  - 'ef codefirst'
 ---
 A partir do Entity Framework 6, todos os componentes do EF estão dentro da DLL EntityFramework.dll e não mais divididas entre vários componentes do .Net Framework. Sendo assim, a DLL do EF não está otimizada para o JIT (Just in Time) do computador onde está sendo rodado, assim como o .Net está.
 

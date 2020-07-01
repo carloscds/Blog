@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2011/11/palestra-sobre-windows-phone-em-natalrn/
 permalink: /2011/11/palestra-sobre-windows-phone-em-natalrn/
 categories:
-  - 'C#'
+  - C Sharp
   - Windows Phone
 tags:
-  - 'Windows Phone; c#; msdn'
+  - 'Windows Phone'
 ---
 Pessoal,
 

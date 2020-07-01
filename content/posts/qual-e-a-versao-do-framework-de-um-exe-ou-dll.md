@@ -8,8 +8,8 @@ guid: http://carloscds.net/?p=10359
 permalink: /2019/06/qual-e-a-versao-do-framework-de-um-exe-ou-dll/
 image:  wp-content/uploads/2019/06/TargetFramework-175x131.png
 categories:
-  - .Net
-  - .Net Core
+  - DotNet
+  - DotNet Core
 ---
 Nestes tempos de migrações e vários Frameworks, é comum termos aplicações feitas em várias versões, desde o .NET Framework até as mais recentes versões do .NET Core.
 

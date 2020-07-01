@@ -7,8 +7,8 @@ layout: post
 guid: http://carloscds.net/?p=8301
 permalink: /2017/01/agora-multi-plataforma/
 categories:
-  - .Net
-  - 'C#'
+  - DotNet
+  - C Sharp
   - Open Source
 ---
 Olá a todos,

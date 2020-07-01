@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2013/01/desenvolvimento-para-windows-8/
 permalink: /2013/01/desenvolvimento-para-windows-8/
 categories:
-  - 'C#'
+  - C Sharp
   - Windows 8
 tags:
-  - 'msdn;c#;windows 8'
+  - windows 8
 ---
 Olá pessoal,
 

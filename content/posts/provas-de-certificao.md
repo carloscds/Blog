@@ -9,7 +9,7 @@ permalink: /2011/12/provas-de-certificao/
 categories:
   - Certificação
 tags:
-  - certificação
+  - certificacao
 ---
 Pessoal,
 

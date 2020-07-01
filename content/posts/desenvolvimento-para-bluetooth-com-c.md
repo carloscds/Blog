@@ -7,10 +7,10 @@ layout: post
 guid: /post/2009/09/12/Desenvolvimento-para-Bluetooth-com-C.aspx
 permalink: /2009/09/desenvolvimento-para-bluetooth-com-c/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'c#'
+  - C Sharp
 ---
 Para quem está desesenvolvendo para Windows Mobile e precisa acessar dispositivos Bluetooth, tenho duas dicas muito interessantes:
  

@@ -9,10 +9,10 @@ permalink: /2011/08/ef-code-first-acessando-stored-procedures/
 hl_twitter_has_auto_tweeted:
   - Novo post EF Code First-Acessando Stored Procedures http://carloscds.net/?p=397
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'c#; msdn; #ef'
+  
 ---
 Olá,
 

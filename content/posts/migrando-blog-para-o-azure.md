@@ -9,7 +9,7 @@ permalink: /2012/06/migrando-blog-para-o-azure/
 categories:
   - Azure
 tags:
-  - '#azure'
+  - 'azure'
 ---
 Pessoal, eu migrei todo o meu blog para o Windows Azure usando o WordPerss com MySQL. A migração foi feita usando as próprias ferramentas do wordpress, ou seja, exportar dados de um lado e importar do outro.
 

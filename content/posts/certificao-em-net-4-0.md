@@ -9,8 +9,7 @@ permalink: /2010/06/certificao-em-net-4-0/
 aktt_notify_twitter:
   - 'yes'
 categories:
-  - csharp
-  - c#
+  - C Sharp
   - Certificação
 ---
 Pessoal,

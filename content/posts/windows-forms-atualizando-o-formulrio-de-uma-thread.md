@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2010/08/windows-forms-atualizando-o-formulrio-de-uma-thread/
 permalink: /2010/08/windows-forms-atualizando-o-formulrio-de-uma-thread/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'c#; msdn'
+  
 ---
 É relativamente comum termos uma aplicação que precise usar uma ou mais threads para realizar algum processo demorado onde o usuário não precise ficar esperando, mas às vezes é necessário também que esta thread faça algum tipo de interação com a tela, talvez atualizando alguma informação, barra de progresso, enfim, mostrar ao usuário que algo está acontecendo.
 

@@ -8,9 +8,9 @@ guid: http://carloscds.net/?p=10283
 permalink: /2019/01/c-8-range-index/
 image:  wp-content/uploads/2019/01/c8-175x119.png
 categories:
-  - 'C#'
+  - C Sharp
 tags:
-  - 'c# 8'
+  
 ---
 No post anterior eu falei um pouco sobre o Visual Studio 2019 Preview, que alias, eu já estou utilizando para trabalhar em alguns projetos.
 

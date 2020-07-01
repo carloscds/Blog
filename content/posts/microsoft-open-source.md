@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/?p=8191
 permalink: /2016/09/microsoft-open-source/
 categories:
-  - OpenSource
+  - Open Source
 ---
 Na última quinta-feira (22/09) estive em Ilha Solteira/SP na Unesp falando sobre Microsoft Open Source para o pessoal de Engenharia Elétrica. Valeu pessoal, a papo foi muito legal.
 

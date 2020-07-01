@@ -7,9 +7,9 @@ layout: post
 guid: http://carloscds.net/2011/10/teched-2011palestra-entity-framework/
 permalink: /2011/10/teched-2011palestra-entity-framework/
 categories:
-  - Uncategorized
+  - Eventos
 tags:
-  - 'msdn;c#'
+  
 ---
 Pessoal,
 

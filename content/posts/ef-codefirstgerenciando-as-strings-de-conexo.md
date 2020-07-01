@@ -9,10 +9,10 @@ permalink: /2011/08/ef-codefirstgerenciando-as-strings-de-conexo/
 hl_twitter_has_auto_tweeted:
   - Novo post EF CodeFirst–Gerenciando as Strings de Conexão http://carloscds.net/?p=394
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'msdn;c#;ef codefirst'
+  - 'ef codefirst'
 ---
 Olá,
 

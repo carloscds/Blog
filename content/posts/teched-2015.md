@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=6661
 permalink: /2015/09/teched-2015/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
 ---
 Este foi um evento sensacional, uma tela gigante no keynote e palestrantes incríveis, como o chefe do Microsoft Research (Rico Malvar), que é um brasileiro e fez uma demonstração ao vivo do Skype Translator em Português. Bom também foi rever os amigos e principalmente ser palestrante em duas sessões deste que foi o maior evento de tecnologia da América Latina. Tivemos também uma participação especial do maestro João Carlos Martins, uma pessoa com uma história de vida e superação incríveis!
 

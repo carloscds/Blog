@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/2012/06/academia-de-entity-framework-4/
 permalink: /2012/06/academia-de-entity-framework-4/
 categories:
-  - 'C#'
+  - C Sharp
   - Entity Framework
 tags:
-  - 'c#; msdn; entity framework'
+  - 'entity framework'
 ---
 Pessoal,
 

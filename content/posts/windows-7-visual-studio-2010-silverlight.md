@@ -7,7 +7,7 @@ layout: post
 guid: /post/2009/11/18/Windows-7-2b-Visual-Studio-2010-2b-Silverlight.aspx
 permalink: /2009/11/windows-7-visual-studio-2010-silverlight/
 categories:
-  - 'C#'
+  - C Sharp
   - Silverlight
   - Visual Studio
 tags:

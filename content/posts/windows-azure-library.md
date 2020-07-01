@@ -8,7 +8,7 @@ guid: http://carloscds.net/2013/05/windows-azure-library/
 permalink: /2013/05/windows-azure-library/
 categories:
   - Azure
-  - 'C#'
+  - C Sharp
 tags:
   - 'msdn;c#;azure'
 ---

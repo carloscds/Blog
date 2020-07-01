@@ -7,7 +7,7 @@ layout: post
 guid: /post/2010/06/03/Dicas-sobre-Visual-Studio-Team-System.aspx
 permalink: /2010/06/dicas-sobre-visual-studio-team-system/
 categories:
-  - ALM
+  - DevOps
   - Visual Studio
 tags:
   - tfs

@@ -9,7 +9,7 @@ permalink: /2009/10/visual-studio-2010-reinvindicacao-atendida/
 categories:
   - Visual Studio
 tags:
-  - 'c#'
+  - C Sharp
 ---
 Pessoal,
 

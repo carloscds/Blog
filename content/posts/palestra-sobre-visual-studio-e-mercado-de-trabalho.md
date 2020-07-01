@@ -11,10 +11,10 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'c#; msdn'
+  
 ---
 Na última sexta-feira (08/04/2011) estive no Instituto Federal Tecnológico do Paraná ([http://www.ifpr.edu.br/](http://www.ifpr.edu.br/ "http://www.ifpr.edu.br/")) para ministrar uma palestra para os alunos do curso técnico em informática.
 

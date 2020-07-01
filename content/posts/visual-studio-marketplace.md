@@ -7,7 +7,6 @@ layout: post
 guid: http://carloscds.net/?p=6921
 permalink: /2015/12/visual-studio-marketplace/
 categories:
-  - IDE
   - Visual Studio
 ---
 Olá pessoal,

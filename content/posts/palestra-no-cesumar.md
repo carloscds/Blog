@@ -9,7 +9,7 @@ permalink: /2011/05/palestra-no-cesumar/
 aktt_notify_twitter:
   - 'yes'
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 ---
 Pessoal,

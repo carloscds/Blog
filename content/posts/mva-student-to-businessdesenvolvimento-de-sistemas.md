@@ -7,10 +7,10 @@ layout: post
 guid: http://carloscds.net/?p=6681
 permalink: /2015/11/mva-student-to-businessdesenvolvimento-de-sistemas/
 categories:
-  - 'C#'
+  - C Sharp
   - Visual Studio
 tags:
-  - 'c#; msdn'
+  
 ---
 Olá pessoal,
 
