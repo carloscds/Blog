@@ -92,5 +92,7 @@ O uso de logs na aplicação ajuda a identificar problemas, melhorar a performan
 
 Use logs com sabedoria e faça um DBA feliz! 
 
+O exemplo deste post está no meu [Github](https://github.com/carloscds/CSharpSamples/tree/master/EFLog). 
+
 Abraços e até a próxima,  
 Carlos dos Santos.
