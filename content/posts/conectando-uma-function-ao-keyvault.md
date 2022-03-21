@@ -106,10 +106,6 @@ Veja o resultado da chamada HTTP a function:
 
 O codigo fonte deste exemplo esta no meu GitHub: https://github.com/carloscds/CSharpSamples/tree/master/FunctionAcessandoKeyVault
 
-
-
-
-
-
+Este post, como muitos outros, são o resultado de problemas reais que enfrentamos diariamente. Um especial agradecimento ao meu amigo [Thiago Custodio](https://twitter.com/thdotnet) pela colaboração na resolução do problema que originou este post.
 
 Abraços e até a próxima!
