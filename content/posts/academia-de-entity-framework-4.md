@@ -8,7 +8,7 @@ guid: http://carloscds.net/2012/06/academia-de-entity-framework-4/
 permalink: /2012/06/academia-de-entity-framework-4/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'entity framework'
 ---
