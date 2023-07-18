@@ -9,7 +9,7 @@ permalink: /2010/05/palestra-na-unipar-de-paranavaipr/
 aktt_notify_twitter:
   - 'yes'
 categories:
-  - Entity Framework
+  - EntityFramework
   - Visual Studio
 tags:
   - eventos

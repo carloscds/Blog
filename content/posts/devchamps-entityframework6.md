@@ -8,9 +8,9 @@ guid: http://carloscds.net/?p=4701
 permalink: /2014/01/devchamps-entityframework6/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
-  - entity framework
+  - EntityFramework
 ---
 Pessoal, 
 

@@ -8,7 +8,7 @@ guid: http://carloscds.net/2012/01/trabalhando-com-entity-framework-designer/
 permalink: /2012/01/trabalhando-com-entity-framework-designer/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   
 ---

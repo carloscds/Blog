@@ -8,7 +8,7 @@ guid: http://carloscds.net/2012/07/entity-frameworkopen-source/
 permalink: /2012/07/entity-frameworkopen-source/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst; ef'
 ---

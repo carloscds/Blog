@@ -8,7 +8,7 @@ guid: http://carloscds.net/2013/12/entity-frameworkcodebase-configuration-interc
 permalink: /2013/12/entity-frameworkcodebase-configuration-interception/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst; ef'
 ---

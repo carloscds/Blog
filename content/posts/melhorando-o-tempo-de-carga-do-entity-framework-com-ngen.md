@@ -8,7 +8,7 @@ guid: http://carloscds.net/2013/11/melhorando-o-tempo-de-carga-do-entity-framewo
 permalink: /2013/11/melhorando-o-tempo-de-carga-do-entity-framework-com-ngen/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst'
 ---

@@ -10,7 +10,7 @@ hl_twitter_has_auto_tweeted:
   - Novo post EF Code First-Acessando Stored Procedures http://carloscds.net/?p=397
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   
 ---

@@ -8,7 +8,7 @@ guid: http://carloscds.net/2012/07/entity-framework-code-firstmigrations/
 permalink: /2012/07/entity-framework-code-firstmigrations/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'entity framework'
 ---

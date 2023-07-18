@@ -5,7 +5,7 @@ date: 2023-07-17
 author: carloscds
 layout: post
 categories:
-  - C#
+  - C Sharp 
   - EntityFramework 
 ---
 Durante muito tempo eu publiquei muito conteúdo sobre EntityFramework (EF), muito antes da versão Core surgir, e durante muito tempo depois desta nova versão eu apenas acompanhei o desenvolvimento, até que na versão 3.1, o EF Core ficou realmente bom para uso em grandes projetos, com a produção de queries "muito limpas" para o banco de dados. Neste ponto voltei a colocar o EF nos meus projetos.

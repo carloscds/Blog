@@ -9,7 +9,7 @@ permalink: /2017/09/voce-se-preocupa-com-performance-ou-sempre-problema-da-infra
 categories:
   - Asp.Net
   - C Sharp
-  - Entity Framework
+  - EntityFramework
   - Performance
 ---
 Pessoal,

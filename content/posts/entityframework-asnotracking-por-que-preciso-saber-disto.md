@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=10248
 permalink: /2018/12/entityframework-asnotracking-por-que-preciso-saber-disto/
 image:  wp-content/uploads/2018/12/AsNoTracking-175x131.jpg
 categories:
-  - Entity Framework
+  - EntityFramework
 ---
 Fala pessoal,
 

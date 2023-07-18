@@ -7,7 +7,7 @@ layout: post
 guid: /post/2010/04/11/Maringa-Techday.aspx
 permalink: /2010/04/maringa-techday/
 categories:
-  - Entity Framework
+  - EntityFramework
   - Visual Studio
 tags:
   - eventos

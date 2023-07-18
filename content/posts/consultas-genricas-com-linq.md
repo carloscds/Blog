@@ -8,7 +8,7 @@ guid: http://carloscds.net/2010/07/consultas-genricas-com-linq/
 permalink: /2010/07/consultas-genricas-com-linq/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   
 ---

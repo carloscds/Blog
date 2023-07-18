@@ -8,7 +8,7 @@ guid: /post/2009/09/12/Links-uteis-sobre-Entity-Framework-e-ADONet.aspx
 permalink: /2009/09/links-uteis-sobre-entity-framework-e-ado-net/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
   - Visual Studio
 tags:
   

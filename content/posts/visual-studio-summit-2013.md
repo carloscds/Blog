@@ -8,7 +8,7 @@ guid: http://carloscds.net/2013/05/visual-studio-summit-2013/
 permalink: /2013/05/visual-studio-summit-2013/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
   - Windows 8
 tags:
   - 'msdn;c#;ef codefirst; ef'

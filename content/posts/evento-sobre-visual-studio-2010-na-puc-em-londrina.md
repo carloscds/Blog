@@ -7,7 +7,7 @@ layout: post
 guid: /post/2010/04/14/Evento-sobre-Visual-Studio-2010-na-PUC-em-Londrina.aspx
 permalink: /2010/04/evento-sobre-visual-studio-2010-na-puc-em-londrina/
 categories:
-  - Entity Framework
+  - EntityFramework
   - Visual Studio
 tags:
   - ef 4

@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=5181
 permalink: /2014/04/entityframeworkapoveitando-seu-banco-de-dados-com-powertools/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst; ef'
 ---

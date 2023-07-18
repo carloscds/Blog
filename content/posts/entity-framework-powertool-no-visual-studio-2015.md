@@ -9,7 +9,7 @@ permalink: /2015/12/entity-framework-powertool-no-visual-studio-2015/
 categories:
   - DotNet
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 ---
 Olá,
 

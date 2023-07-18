@@ -10,7 +10,7 @@ hl_twitter_has_auto_tweeted:
   - Novo post EF CodeFirst–Gerenciando as Strings de Conexão http://carloscds.net/?p=394
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst'
 ---

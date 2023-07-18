@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=4891
 permalink: /2014/04/melhorando-a-performance-do-entity-framework-com-ngen/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst; ef'
 ---

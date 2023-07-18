@@ -8,7 +8,7 @@ guid: http://carloscds.net/2010/08/efprofiler-entity-framework-profiler/
 permalink: /2010/08/efprofiler-entity-framework-profiler/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   
 ---

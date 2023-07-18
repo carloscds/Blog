@@ -7,7 +7,7 @@ layout: post
 guid: http://carloscds.net/2012/01/entity-framework-com-oracle/
 permalink: /2012/01/entity-framework-com-oracle/
 categories:
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef;oracle'
 ---

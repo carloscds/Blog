@@ -8,7 +8,7 @@ guid: http://carloscds.net/?p=5341
 permalink: /2014/07/criando-ndices-no-entity-framework-codefirst/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 ---
 Olá pessoal,
 

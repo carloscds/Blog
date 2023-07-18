@@ -8,7 +8,7 @@ guid: http://carloscds.net/2013/09/entity-framework-6gerando-log-dos-comandos-sq
 permalink: /2013/09/entity-framework-6gerando-log-dos-comandos-sql/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst'
 ---

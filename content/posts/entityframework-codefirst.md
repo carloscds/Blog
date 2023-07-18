@@ -8,7 +8,7 @@ guid: http://carloscds.net/2012/01/entityframework-codefirst/
 permalink: /2012/01/entityframework-codefirst/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst; ef'
 ---

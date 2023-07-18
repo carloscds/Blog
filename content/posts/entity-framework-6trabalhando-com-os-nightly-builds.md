@@ -8,7 +8,7 @@ guid: http://carloscds.net/2013/08/entity-framework-6trabalhando-com-os-nightly-
 permalink: /2013/08/entity-framework-6trabalhando-com-os-nightly-builds/
 categories:
   - C Sharp
-  - Entity Framework
+  - EntityFramework
 tags:
   - 'ef codefirst'
 ---
