@@ -54,7 +54,7 @@ modelBuilder.HasPerformanceLevel("Basic");
 ```
 Eles informam ao migrations para modificar a camada do SQL para Basic que custa muito, muito menos, cerca de R$ 27,00 hoje!
 
-No meu exemplo eu usei o Basic porque sempre começo un projeto no Azure com uma camada de banco bem pequena e barata, e a medida que o projeto cresce, vamos aumentando o tamanho do banco! Questão de economia!
+No meu exemplo eu usei o Basic porque sempre começo um projeto no Azure com uma camada de banco bem pequena e barata, e a medida que o projeto cresce, vamos aumentando o tamanho do banco! Questão de economia!
 
 Você pode conferir mais detalhes sobre os comandos aqui:
 
@@ -62,6 +62,9 @@ https://learn.microsoft.com/en-us/ef/core/providers/sql-server/azure-sql-databas
 https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.sqlservermodelbuilderextensions.hasperformancelevel?view=efcore-7.0
 
 Esta opção está disponível desde o EF Core 3.1
+
+### Considerações
+O ideal neste caso é utilizar um usuário com acesso restrito ao banco e quando houver necessidade, o responsável pelo Azure pode criar o banco na camada correta, evitando todos estes problemas!
 
 O código fonte deste exemplo pode ser encontrado no meu GitHub: https://github.com/carloscds/EntityFramework/tree/main/EFCoreDatabaseTier
 
