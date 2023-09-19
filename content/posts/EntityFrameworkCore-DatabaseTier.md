@@ -66,6 +66,8 @@ Esta opção está disponível desde o EF Core 3.1
 ### Considerações
 O ideal neste caso é utilizar um usuário com acesso restrito ao banco e quando houver necessidade, o responsável pelo Azure pode criar o banco na camada correta, evitando todos estes problemas!
 
+Agradecimentos ao [Rafael Almeida](https://github.com/ralmsdeveloper) com quem sempre tenho discussoes sensacionais sobre EntityFramework!
+
 O código fonte deste exemplo pode ser encontrado no meu GitHub: https://github.com/carloscds/EntityFramework/tree/main/EFCoreDatabaseTier
 
 Abraços e até a próxima!
