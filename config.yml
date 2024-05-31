@@ -8,7 +8,7 @@ hasCJKLanguage: true
 paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
-googleAnalytics: "UA-8863591-6"
+googleAnalytics: "398873089"
 permalinks: 
   posts: /:year/:month/:filename/
   
