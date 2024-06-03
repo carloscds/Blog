@@ -10,6 +10,9 @@
       {{- end -}}
     </title>
     {{ partial "head.html" . }}
+    {{ if .Site.Params.GoogleAnalyticsID }}
+       {{ partial "analytics-gtag.html" . }}
+    {{ end }}
   </head>
   {{- $.Scratch.Add "bodyClass" slice }}
   {{- $config := .Site.Params.config }}

@@ -9,6 +9,7 @@ paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
 googleAnalytics: "398873089"
+googleAnalyticsID: "G-398873089"
 permalinks: 
   posts: /:year/:month/:filename/
   
