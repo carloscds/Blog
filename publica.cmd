@@ -1,6 +1,6 @@
 cd ..\carloscds.github.io
 git pull
-cd ..\blog
+cd ..\projeto
 
 git add .
 git commit -m "Novo Post"
@@ -11,4 +11,4 @@ cd ..\carloscds.github.io
 git add .
 git commit -m "Novo Post"
 git push
-cd ..\blog
+cd ..\projeto
