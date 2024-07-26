@@ -119,6 +119,6 @@ Veja que existe umao pequena diferença na configuração e na chamada em relaç
 ### Considerações
 O Scalar é sem dúvida uma poderosa ferramenta para documentação de API, mesmo para códigos existentes em .NET (Core), que podem se beneficiar agora mesmo, dando um belo upgrade na sua API.
 
-Aproveite é já experimente!
+Aproveite e já experimente!
 
 Abraços e até a próxima!
