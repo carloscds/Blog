@@ -13,7 +13,7 @@ Agora no .NET 8 temos um recurso mais simples e poderoso chamado *Global Error H
 
 ## Como usar o Global Error Handler
 
-Eiste muita maneiras de usar o recurso, mas basicamente você implementa uma classe que herda da interface *IExceptionHandler* :
+Existe muita maneiras de usar o recurso, mas basicamente você implementa uma classe que herda da interface *IExceptionHandler* :
 
 
 ```csharp
