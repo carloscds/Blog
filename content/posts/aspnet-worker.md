@@ -195,17 +195,26 @@ Vamos buscar a classe de email de uma outra maneira, usando o ServiceProvider, v
 
 ```csharp
 private Timer? _timer;
-private readonly ISendEmail _sendEmail; // enviar email
+private readonly IServiceProvider _serviceProvider;
 
 public TimerWorker(ILogger<TimerWorker> logger, IServiceProvider service)
 {
     _logger = logger;
-    var scope = service.CreateScope().ServiceProvider; // criar escopo para injeção de dependência
-    _sendEmail = scope.GetRequiredService<ISendEmail>(); // enviar email
+    _serviceProvider = service;
 }
 ```
 
-Mudamos apenas o construtor do Worker, nele criamos o *scope*  com o *ServiceProvider* e depois buscamos a instância da classe que queremos!
+Modificamos o construtor do Worker colocando o *ServiceProvider*, e agora vamos mudar o *DoWork* para buscar a instância da classe que queremos!
+
+```csharp
+private void DoWork(object? state)
+{
+    _logger.LogInformation("Tempo contando: {time}", DateTimeOffset.Now);
+    using var scope = _serviceProvider.CreateScope(); // criar escopo para injeção de dependência
+    var sendEmail = scope.ServiceProvider.GetRequiredService<ISendEmail>();  
+    sendEmail.Enviar(); // enviar email
+}
+```
 
 Pronto, agora você tem uma API em ASP.NET com um Worker funcionando:
 
