@@ -33,6 +33,6 @@ Com certeza é um tipo de componente que todo desenvolvedor EF Core deveria ter 
 
 Aproveitando: O exemplo que estou usando é um MasterDetail em EF Core!
 
-O código fonte do exemplo está no meu [GitHub](https://github.com/carloscds/CSharpSamples/tree/master/ASPNET-Worker/ExemploWorker).
+O código fonte do exemplo está no meu [GitHub](https://github.com/carloscds/CSharpSamples/tree/master/EFMasterDetail).
 
 Abraços e até a próxima!
