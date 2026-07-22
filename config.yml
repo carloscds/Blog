@@ -74,7 +74,7 @@ menu:
     - identifier: videos
       name: Videos
       title: Videos
-      url: https://youtube.com/carloscds10
+      url: https://www.youtube.com/@carlosdribion
       weight: 7
 
 
@@ -125,7 +125,7 @@ params:
         github: https://github.com/carloscds
         twitter: https://twitter.com/cdssoftware
         facebook: https://www.facebook.com/carloscds
-        youtube: https://youtube.com/carloscds10
+        youtube: https://www.youtube.com/@carlosdribion
         rss: /index.xml
       link_tooltip: true # enable the social link tooltip, options: true, false
   # Site
