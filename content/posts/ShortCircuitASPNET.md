@@ -165,6 +165,8 @@ Como este Middleware é registrado no `Program.cs` com `app.UseMiddleware<Except
 
 Vale lembrar: use com cuidado! Se o seu endpoint short-circuited passar a precisar de autenticação ou CORS no futuro, você vai precisar remover o atributo, senão aquele Middleware simplesmente não vai ser executado.
 
+Um detalhe importante é que esta funcionalidade está disponivel no .NET 11 Preview 6.
+
 O código fonte do exemplo está no meu [GitHub](https://github.com/carloscds/CSharpSamples/tree/master/CircuitoCurto).
 
 Abraços e até a próxima!
