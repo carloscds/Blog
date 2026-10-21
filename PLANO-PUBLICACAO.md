@@ -16,14 +16,14 @@ Cadência: quinzenal, às segundas-feiras (intervalo de 14 dias), retomando em 1
 
 ## Próximas publicações
 
-O item 4 está escrito, com data de publicação prevista para 12/10/2026. Os itens 5 a 8 permanecem pendentes, com arquivos ainda não criados. A coluna de referência aponta para as seções do anúncio-base; as notas de versão vinculadas ali devem orientar os exemplos.
+O item 4 está escrito, com data de publicação prevista para 12/10/2026. Os itens 6 e 7 também estão escritos, validados com o SDK 11.0.100-rc.1.26425.128. Os itens 5 e 8 permanecem pendentes, com arquivos ainda não criados. A coluna de referência aponta para as seções do anúncio-base; as notas de versão vinculadas ali devem orientar os exemplos.
 
 | Item | Data | Título sugerido | Recorte prático | Referência no anúncio | Arquivo planejado |
 |---|---|---|---|---|---|
 | ~~4~~ | 12/10/2026 | ~~".NET 11 RC 1: como começar a testar sua aplicação"~~ | API validada com o SDK RC 1, roteiro de avaliação e suporte go-live. | Introdução e Get started | `content/posts/DotNet11RC1.md` ✅ Escrito |
 | 5 | 26/10/2026 | "C# 15: unions e serialização JSON na prática" | Modelar resultados de uma operação e explorar polimorfismo de tipos fechados no JSON. | C# e Libraries | `content/posts/CSharp15UnionsJson.md` |
-| 6 | 09/11/2026 | "ASP.NET Core 11: renovando autenticação no SignalR e no Blazor" | Demonstrar renovação de autenticação e atualização de circuitos do Blazor Server. | ASP.NET Core | `content/posts/ASPNETCore11Autenticacao.md` |
-| 7 | 23/11/2026 | "OpenAPI no ASP.NET Core 11: APIs obsoletas e ambientes de geração" | Marcar endpoints obsoletos e selecionar o ambiente ao gerar o documento durante o build. | ASP.NET Core | `content/posts/ASPNETCore11OpenAPI.md` |
+| ~~6~~ | 09/11/2026 | ~~"ASP.NET Core 11: renovando autenticação no SignalR e no Blazor"~~ | Demonstrar renovação de autenticação e atualização de circuitos do Blazor Server. | ASP.NET Core | `content/posts/ASPNETCore11Autenticacao.md` ✅ Escrito |
+| ~~7~~ | 23/11/2026 | ~~"OpenAPI no ASP.NET Core 11: APIs obsoletas e ambientes de geração"~~ | Marcar endpoints obsoletos e selecionar o ambiente ao gerar o documento durante o build. | ASP.NET Core | `content/posts/ASPNETCore11OpenAPI.md` ✅ Escrito |
 | 8 | 07/12/2026 | "Publicando containers com .NET 11: imagens reproduzíveis" | Comparar duas publicações e investigar uploads redundantes. | SDK | `content/posts/DotNet11Containers.md` |
 
 ## Diretrizes para escrever os artigos
