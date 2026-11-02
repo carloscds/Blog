@@ -16,7 +16,7 @@ Cadência: quinzenal, às segundas-feiras (intervalo de 14 dias), retomando em 1
 
 ## Próximas publicações
 
-O item 4 está escrito, com data de publicação prevista para 12/10/2026. Os itens 6 e 7 também estão escritos, validados com o SDK 11.0.100-rc.1.26425.128. Os itens 5 e 8 permanecem pendentes, com arquivos ainda não criados. A coluna de referência aponta para as seções do anúncio-base; as notas de versão vinculadas ali devem orientar os exemplos.
+O item 4 está escrito, com data de publicação prevista para 12/10/2026. Os itens 6 e 7 também estão escritos, validados com o SDK 11.0.100-rc.1.26425.128. O item 8 está escrito, validado com o SDK 11.0.100-rc.3.26522.148. O item 5 permanece pendente, com arquivo ainda não criado. A coluna de referência aponta para as seções do anúncio-base; as notas de versão vinculadas ali devem orientar os exemplos.
 
 | Item | Data | Título sugerido | Recorte prático | Referência no anúncio | Arquivo planejado |
 |---|---|---|---|---|---|
@@ -24,11 +24,11 @@ O item 4 está escrito, com data de publicação prevista para 12/10/2026. Os it
 | 5 | 26/10/2026 | "C# 15: unions e serialização JSON na prática" | Modelar resultados de uma operação e explorar polimorfismo de tipos fechados no JSON. | C# e Libraries | `content/posts/CSharp15UnionsJson.md` |
 | ~~6~~ | 09/11/2026 | ~~"ASP.NET Core 11: renovando autenticação no SignalR e no Blazor"~~ | Demonstrar renovação de autenticação e atualização de circuitos do Blazor Server. | ASP.NET Core | `content/posts/ASPNETCore11Autenticacao.md` ✅ Escrito |
 | ~~7~~ | 23/11/2026 | ~~"OpenAPI no ASP.NET Core 11: APIs obsoletas e ambientes de geração"~~ | Marcar endpoints obsoletos e selecionar o ambiente ao gerar o documento durante o build. | ASP.NET Core | `content/posts/ASPNETCore11OpenAPI.md` ✅ Escrito |
-| 8 | 07/12/2026 | "Publicando containers com .NET 11: imagens reproduzíveis" | Comparar duas publicações e investigar uploads redundantes. | SDK | `content/posts/DotNet11Containers.md` |
+| ~~8~~ | 07/12/2026 | ~~"Publicando containers com .NET 11: imagens reproduzíveis"~~ | Comparar duas publicações e investigar uploads redundantes. | SDK | `content/posts/DotNet11Containers.md` ✅ Escrito |
 
 ## Diretrizes para escrever os artigos
 
-- Usar o RC 1 como ponto de partida e conferir a versão disponível na data de cada publicação. Atualizar exemplos e títulos quando necessário, informando o SDK efetivamente testado.
+- Usar o RC 3 como ponto de partida e conferir a versão disponível na data de cada publicação. Atualizar exemplos e títulos quando necessário, informando o SDK efetivamente testado.
 - No item 4, fazer referência ao post sobre Preview 6, concentrando o novo texto na preparação e validação de um projeto.
 - Nos tutoriais, incluir pré-requisitos, código reproduzível e resultado observado. Não apresentar código apenas ilustrativo como exemplo executado.
 - Manter o tom dos posts existentes, com introdução direta, exemplos em C# quando aplicáveis e links para as fontes oficiais.
